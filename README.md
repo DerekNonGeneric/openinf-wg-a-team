@@ -5,7 +5,7 @@ Spec: https://github.github.com/gfm
 
 <div align="center">
 
-# @OpenINF/wg-a-team
+## @OpenINF/wg-a-team
 
 <br />
 
@@ -40,44 +40,39 @@ Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.
 
 <br />
 
-# The Engineering Productivity <abbr title="Working Group">WG</abbr>
-
 Welcome to the homepage of the Engineering Productivity
 <abbr title="Working Group">WG</abbr> (called “the A-Team” for nostalgic
 reasons). Although previously formally known as the Automation and Tools team,
 we often still use the nickname “A-Team”, and you’ll see A-Team references
-scattered about throughout our codebases. Although we are proud to now finally
-be recognized as an officially-chartered <abbr title="Working Group">WG</abbr>
-(Working Group), we still prefer the “A-Team” nickname from our humble
-beginnings. Please preserve all instances of this esoteric usage that you may
-find while spelunking in our codebases by leaving them as-is and untouched.
+scattered throughout our codebases. Although we are proud to now finally be
+recognized as an officially chartered WG (Working Group), we still prefer the
+“A-Team” nickname from our humble beginnings. Please preserve all instances of
+this esoteric usage you may find while spelunking in our codebases by leaving
+them as-is and untouched.
 
 We’re a group of programmers who develop and support a wide range of services,
 tools, and automation that serve the engineering teams at OpenINF, with a
-specific focus on work that increases the productivity of those teams. We are
-part of the [Release and Productivity meta-team][].
+specific focus on work that increases the productivity of those teams.
 
-<br />
+We are part of the [Release & Productivity meta-team][release-n-productiv-team].
 
-## Our Mission
+### Our Mission
 
-The Engineering Productivity <abbr title="Working Group">WG</abbr> is a Swiss
-Army Knife of coders dedicated to improving the quality and productivity of
-engineering at OpenINF. Working with others in a responsive and agile manner, we
-strive to be a model of open development. We create, maintain, and extend a
-diverse array of sustainable tools and systems that derive and deliver
-information on the quality of OpenINF’s products and enhance the impact and
-effectiveness of the OpenINF community.
+The Engineering Productivity WG is a Swiss Army Knife of coders dedicated to
+improving the quality and productivity of engineering at OpenINF. Working with
+others in a responsive and agile manner, we strive to be a model of open
+development. We create, maintain, and extend a diverse array of sustainable
+tools and systems that derive and deliver information on the quality of
+OpenINF’s products and enhance the impact and effectiveness of the OpenINF
+community.
 
-<br />
-
-## Connecting with the Team
+### Connecting with the Team
 
 We’re a friendly bunch of people happy to help you; we want to hear about your
 ideas and problems. Please let us know what you think we can do to help you work
 more productively.
 
-See our team roster(s) below for a list of folks on “the A-Team”&hellip;
+See our team roster(s) below for a list of folks on “The A-Team”&hellip;
 
 <!--
 `ncu-team sync` command updates the special >>ncu-team-sync.team($org/$team)<<
@@ -92,67 +87,98 @@ See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-fil
 
 <!-- ncu-team-sync.team(OpenINF/wg-a-team) -->
 
-* [@DerekNonGeneric](https://github.com/DerekNonGeneric) - Derek Lewis
-* [@emmitrovic](https://github.com/emmitrovic) - Milena Mitrovic
-* [@jorgebucaran](https://github.com/jorgebucaran) - Jorge Bucaran
-* [@smorimoto](https://github.com/smorimoto) - Sora Morimoto
+- [@DerekNonGeneric](https://github.com/DerekNonGeneric) - Derek Lewis
+- [@emmitrovic](https://github.com/emmitrovic) - Milena Mitrovic
+- [@jorgebucaran](https://github.com/jorgebucaran) - Jorge Bucaran
+- [@smorimoto](https://github.com/smorimoto) - Sora Morimoto
 
 <!-- ncu-team-sync end -->
 
 <br />
 
-## What We Work On
+### What We Work On
 
-We work on a range of things that will vary from quarter to quarter, but the
-lists below represent the general scope of our activities.
+We work on various things that will vary from quarter to quarter, but the lists
+below represent the general scope of our activities.
+
+#### Services
+
+- Autoland
+- Treeherder/Perfherder
+- TestInformant
+
+#### Automation
+
+- [web-platform-tests][]
+- CI integration (buildbot/[Taskcluster][]),
+- JS specification ([TC39 AssertionError
+  Proposal][tc39-proposal-assertion-error])
+- new test harnesses as needed
+
+#### Tools
+
+- [mach][]
+- GitHub Actions
+- code coverage
 
 <br />
 
-- **Services**:
-	- Autoland
-	- Treeherder/Perfherder
-	- TestInformant
-- **Automation**:
-	- [web-platform-tests][]
-	- CI integration (buildbot/[Taskcluster][]),
-	- JS specification (TC39 [`AssertionError` Proposal][])
-	- new test harnesses as needed
-- **Tools**:
-	- [mach][]
-	- GitHub Actions
-	- code coverage
-<br />
-
-## What We Do Not Work On
+### What We Do Not Work On
 
 We don’t own [asbuild][], [Taskcluster][], or [depot_tools][] (those belong to
 our Release Engineering team, the Mozilla Taskcluster team, and a few select
-owners in the Chromium project, respectively), although we occasionally help
+owners in the Chromium project, respectively). However, we occasionally help
 with those projects as well.
 
 > **Warning**: We don’t write unit tests run in the test harnesses we own;
 > developers are best suited for &mdash; and responsible &mdash; for that.
 
-We generally don’t write functional tests run in the harnesses we own, although
-we may help out here from time to time, mainly when this is done in conjunction
-with developing a new harness. Our interests here are empowering developers to
-write tests independently, but we sometimes contribute tests here as part of the
-bootstrapping process. Ultimately, as with unit tests, developers are best
-suited to writing functional tests as they understand overall test coverage and
-design.
+We generally don’t write functional tests run in the harnesses we own. However,
+we may help here occasionally, mainly when this is done in conjunction with
+developing a new harness. Our interests here are empowering developers to write
+tests independently, but we sometimes contribute tests here as part of the
+bootstrapping process. As with unit tests, developers are best suited to writing
+functional tests as they understand overall test coverage and design.
 
 <br />
 
-## Meetings
+### Meetings
 
-We have a fortnightly meeting every other Tuesday at 12am US Pacific Time. We
+We have a fortnightly meeting every other Tuesday at noon US Pacific Time. We
 typically discuss status, and new projects, have demonstrations of the latest
 tools & features, and sometimes even engage in bikeshedding. All are welcome;
 please join us!
 
+| Date       | Day of Week | Time         |
+| ---------- | ----------- | ------------ |
+| 2023-02-14 | Tuesday     | 12:00 PM PDT |
+| 2023-02-28 | Tuesday     | 12:00 PM PDT |
+| 2023-03-07 | Tuesday     | 12:00 PM PDT |
+| 2023-03-21 | Tuesday     | 12:00 PM PDT |
+| 2023-03-28 | Tuesday     | 12:00 PM PDT |
+| 2023-04-04 | Tuesday     | 12:00 PM PDT |
+| 2023-04-18 | Tuesday     | 12:00 PM PDT |
+| 2023-05-02 | Tuesday     | 12:00 PM PDT |
+| 2023-05-16 | Tuesday     | 12:00 PM PDT |
+| 2023-05-30 | Tuesday     | 12:00 PM PDT |
+| 2023-06-13 | Tuesday     | 12:00 PM PDT |
+| 2023-06-27 | Tuesday     | 12:00 PM PDT |
+| 2023-07-11 | Tuesday     | 12:00 PM PDT |
+| 2023-07-25 | Tuesday     | 12:00 PM PDT |
+| 2023-08-08 | Tuesday     | 12:00 PM PDT |
+| 2023-08-22 | Tuesday     | 12:00 PM PDT |
+| 2023-09-05 | Tuesday     | 12:00 PM PDT |
+| 2023-09-19 | Tuesday     | 12:00 PM PDT |
+| 2023-10-03 | Tuesday     | 12:00 PM PDT |
+| 2023-10-17 | Tuesday     | 12:00 PM PDT |
+| 2023-11-07 | Tuesday     | 12:00 PM PDT |
+| 2023-11-21 | Tuesday     | 12:00 PM PDT |
+| 2023-12-05 | Tuesday     | 12:00 PM PDT |
+| 2023-12-19 | Tuesday     | 12:00 PM PDT |
+
 <br />
 
-## Goals and Projects
+### Goals and Projects
 
 We set and deliver quarterly goals, which is usually an excellent place to see
 what we’re up to. If you’d like us to incorporate some work into our plans, fill
@@ -164,7 +190,7 @@ Periodic team updates are posted to the [`openinf-auto-tooling` mailing list][].
 
 <br />
 
-## Getting Involved
+### Getting Involved
 
 We love contributors! We see community members as one of the keys to our success
 and actively encourage their contributions. Working on the tooling, automation,
@@ -172,20 +198,34 @@ testing, and build systems at OpenINF is a fantastic introduction to OpenINF
 development. There are two great ways to help: joining an existing project or
 taking on one of our _starter_ projects to help rev up to speed.
 
-- [Quarter of Contribution][]&#xFF1A;Longer-running, scoped contributing
-  opportunities with definite goals, mentors, and timelines
-- [Existing Project][]&#xFF1A;Look over our [projects][] list and see if there
-  is anything that you’d like to help with
-- Good First Issues&#xFF1A;Want a bug to try out? Find a few issues labeled
-  https://github.com/OpenINF/wg-a-team/labels/help%20wanted or
-  https://github.com/OpenINF/wg-a-team/labels/good%20first%20issue as have been
-  identified as desirable for broader community contribution. Feel free to work
-  on <abbr title="Good First Issues">GFIs</abbr> even if not your first issue.
-  - List of [all issues labeled _good first issue_][i-gfi]
-  - List of [all issues labeled _help wanted_][i-help]
-  - List of [all incomplete pull requests labeled _help wanted_][pr-help]
-- Check out the [skills and areas][] of the team to see how you can fit in and
-  help out!
+<dl>
+
+<dt>
+
+[Quarter of Contribution][]
+
+</dt>
+
+<dd>
+
+Longer-running, scoped contributing opportunities with definite goals, mentors,
+and timelines
+
+</dd>
+
+<dt>
+
+[Existing Projects][]
+
+</dt>
+
+<dd>
+
+Look over our list and see if there is anything that you’d like to help with
+
+</dd>
+
+</dl>
 
 If you have questions or want to sign up, please find us on Matrix or Twitter.
 
@@ -193,30 +233,20 @@ If you have questions or want to sign up, please find us on Matrix or Twitter.
 
 ---
 
-<br /><br />
+<br />
 
 <div align="center">
 
-## Show Your Support
+### Show Your Support
 
 <br />
 
 If you like the project (or want to bookmark it)&nbsp;&mdash;<br />
-&mdash;&nbsp;[give it a star ⭐️]&nbsp;&mdash;&nbsp;it will greatly encourage us.
+&mdash;&nbsp;[give it a star ⭐️][]&nbsp;&mdash;&nbsp;it will greatly encourage
+us.
 
-<br /><br /><br />
+<br /><br />
 
-![CC logo icon] ![CC BY icon] ![CC SA icon] Portions of this document are<br />
-adapted from work created &amp; [shared by Mozilla][moz-policies], and<br />
-used according to terms described in [CC BY-SA 3.0].
-
-<br />
-
-![CC logo icon] ![CC BY icon] Except as otherwise noted, this content is<br />
-published under [CC BY 4.0].
-
-<br />
-  
 &copy; The OpenINF Authors
 
 <br />
@@ -225,9 +255,29 @@ published under [CC BY 4.0].
   <img alt="The OpenINF logo" height="32px" width="32px" src="https://raw.githubusercontent.com/openinf/openinf.github.io/live/assets/img/svg/logo.svg?sanitize=true" />
 </a>
 
+</div>
+
 <br /><br />
 
-</div>
+<!-- BEGIN LINK DEFINITIONS -->
+
+[`openinf-auto-tooling` mailing list]:
+  https://groups.google.com/g/openinf-auto-tooling
+[asbuild]: https://github.com/OpenINF/openinf-asbuild
+[depot_tools]:
+  https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depo
+[Existing Projects]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
+[mach]: https://firefox-source-docs.mozilla.org/mach/index.html
+[Project Central wiki page]:
+  https://github.com/OpenINF/wg-a-team/wiki/Project-Central
+[Quarter of Contribution]:
+  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter
+[release-n-productiv-team]: https://github.com/OpenINF/wg-release-n-productiv
+[Taskcluster]: https://taskcluster.net
+[tc39-proposal-assertion-error]:
+  https://github.com/DerekNonGeneric/proposal-assertion-error
+[web-platform-tests]:
+  https://firefox-source-docs.mozilla.org/web-platform/index.htm
 
 [**@OpenINF**]: https://github.com/OpenINF
 
@@ -275,9 +325,7 @@ published under [CC BY 4.0].
 [license-badge-url]: https://spdx.org/licenses/CC-BY-4.0.html 'License: CC BY 4.0'
 [matrix-badge--shields]: https://img.shields.io/badge/matrix-join%20chat-%2346BC99?logo=matrix 'Chat on Matrix badge'
 [matrix-url]: https://matrix.to/#/#openinf:matrix.org 'You&apos;re invited to talk on Matrix'
-[moz-policies]:
-  https://www.mozilla.org/en-US/foundation/licensing/
-  'Mozilla Licensing Policies'
 [prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier 'Code Style: Prettier badge'
 [prettier-url]: https://prettier.io/playground 'Code Style: Prettier'
 [project-status-badge]: https://img.shields.io/badge/project%20status-under%20construction-orange 'Project Status: Under construction badge'
+<!-- END LINK DEFINITIONS -->
