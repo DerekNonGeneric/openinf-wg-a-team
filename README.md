@@ -262,24 +262,6 @@ us.
 
 <!-- BEGIN LINK DEFINITIONS -->
 
-[`openinf-auto-tooling` mailing list]:
-  https://groups.google.com/g/openinf-auto-tooling
-[asbuild]: https://github.com/OpenINF/openinf-asbuild
-[depot_tools]:
-  https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depo
-[Existing Projects]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
-[mach]: https://firefox-source-docs.mozilla.org/mach/index.html
-[Project Central wiki page]:
-  https://github.com/OpenINF/wg-a-team/wiki/Project-Central
-[Quarter of Contribution]:
-  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter
-[release-n-productiv-team]: https://github.com/OpenINF/wg-release-n-productiv
-[Taskcluster]: https://taskcluster.net
-[tc39-proposal-assertion-error]:
-  https://github.com/DerekNonGeneric/proposal-assertion-error
-[web-platform-tests]:
-  https://firefox-source-docs.mozilla.org/web-platform/index.htm
-
 [**@OpenINF**]: https://github.com/OpenINF
 
 <!-- 3P Tools -->
@@ -287,8 +269,14 @@ us.
 [depot_tools]: https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools.html
 [mach]: https://firefox-source-docs.mozilla.org/mach/index.html
 [Taskcluster]: https://taskcluster.net
+[web-platform-tests]:
+  https://firefox-source-docs.mozilla.org/web-platform/index.html
 
 <!-- Misc. doc links -->
+[`openinf-auto-tooling` mailing list]:
+  https://groups.google.com/g/openinf-auto-tooling
+[tc39-proposal-assertion-error]:
+  https://github.com/DerekNonGeneric/proposal-assertion-error
 [`AssertionError` Proposal]: https://github.com/DerekNonGeneric/proposal-assertion-error
 [i-gfi]:
   https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
@@ -299,26 +287,19 @@ us.
 [projects]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [pr-help]:
   https://github.com/search?q=org%3Aopeninf+is%3Apr+is%3Aopen+label%3A%22help+wanted%22
-[Existing Project]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
+[Existing Projects]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
+[Project Central wiki page]:
+  https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [Quarter of Contribution]:
-  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter-of-contribution
+  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter
+[release-n-productiv-team]: https://github.com/OpenINF/wg-release-n-productiv
 [Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
 [Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
-[web-platform-tests]: https://firefox-source-docs.mozilla.org/web-platform/index.html
 
-<!-- Readme template doc links -->
-[cc by icon]: ./doc/img/cc-by_icon.svg 'Attribution icon'
-[cc logo icon]: ./doc/img/cc_icon.svg 'Creative Commons icon'
-[cc sa icon]: ./doc/img/cc-sa_icon.svg 'ShareAlike icon'
-[cc by-sa 3.0]:
-  https://creativecommons.org/licenses/by-sa/3.0
-  'Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)'
-[cc by 4.0]:
-  https://creativecommons.org/licenses/by/4.0
-  'Creative Commons Attribution 4.0 International license (CC BY 4.0)'
+<!-- Readme template links -->
 [conventional-commits-badge]: https://img.shields.io/badge/commit%20style-Conventional-%23fa6673?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBhdGggc3R5bGU9ImZpbGw6ICNGRkYiIGQ9Ik0xNSwyQTEzLDEzLDAsMSwxLDIsMTUsMTMsMTMsMCwwLDEsMTUsMm0wLTJBMTUsMTUsMCwxLDAsMzAsMTUsMTUsMTUsMCwwLDAsMTUsMFoiLz48L3N2Zz4K 'Commit Style: Conventional Commits'
 [conventional-commits-url]: https://www.conventionalcommits.org 'Commit Style: Conventional Commits'
 [give it a star ⭐️]: https://github.com/OpenINF/wg-a-team/stargazers
