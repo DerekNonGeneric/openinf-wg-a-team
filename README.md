@@ -58,13 +58,14 @@ We are part of the [Release & Productivity meta-team][release-n-productiv-team].
 
 ### Our Mission
 
-The Engineering Productivity WG is a Swiss Army Knife of coders dedicated to
-improving the quality and productivity of engineering at OpenINF. Working with
-others in a responsive and agile manner, we strive to be a model of open
-development. We create, maintain, and extend a diverse array of sustainable
-tools and systems that derive and deliver information on the quality of
-OpenINF’s products and enhance the impact and effectiveness of the OpenINF
-community.
+The Engineering Productivity WG is a diverse group of engineers passionate about
+improving engineering quality and productivity at OpenINF. We are experts in
+various coding languages and tools and are always looking for new ways to make
+engineering more efficient and effective. We work with others in a responsive
+and agile manner, striving to be a model of open development. We create,
+maintain, and extend a diverse array of sustainable tools and systems that
+derive and deliver information on the quality of OpenINF’s products and enhance
+the impact and effectiveness of the OpenINF community.
 
 ### Connecting with the Team
 
