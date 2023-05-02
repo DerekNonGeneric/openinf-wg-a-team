@@ -7,8 +7,6 @@ Spec: https://github.github.com/gfm
 
 ## @OpenINF/wg-a-team
 
-<br />
-
 Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the A-Team
 
 <br />
@@ -17,6 +15,12 @@ Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.
 [!['License: Attribution 4.0 International (CC BY 4.0)'][license-badge--shields]][license-badge-url]
 
 </div>
+
+<br />
+
+We are the A-Team, focused on enhancing productivity for OpenINF’s engineering
+teams. Our experts develop and support tools and automation to achieve this
+goal. Contact us for assistance or to share your ideas.
 
 <br />
 
