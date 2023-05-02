@@ -32,11 +32,16 @@ Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.
 
 ---
 
-> **Note**: As of 2023-02-14, _the Engineering Productivity team, a.k.a. the
-> A-Team_, is no longer a discrete team. Its operations are split between the
-> new Product Integrity WG meta-team and Engineering Operations. For now, many
-> discussions around the test and automation work that was formerly under
-> Engineering Productivity may continue in our Matrix channel.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
+  <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
+</picture><br>
+
+As of 2023-02-14, _the Engineering Productivity team, a.k.a. the A-Team_, is no
+longer a discrete team. Its operations are split between the new Product
+Integrity WG meta-team and Engineering Operations. For now, many discussions
+around the test and automation work that was formerly under Engineering
+Productivity may continue in our Matrix channel.
 
 <br />
 
@@ -131,8 +136,25 @@ our Release Engineering team, the Mozilla Taskcluster team, and a few select
 owners in the Chromium project, respectively). However, we occasionally help
 with those projects as well.
 
-> **Warning**: We don’t write unit tests run in the test harnesses we own;
-> developers are best suited for &mdash; and responsible &mdash; for that.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
+  <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
+</picture><br>
+
+As of 2023-02-14, _the Engineering Productivity team, a.k.a. the A-Team_, is no
+longer a discrete team. Its operations are split between the new Product
+Integrity WG meta-team and Engineering Operations. For now, many discussions
+around the test and automation work that was formerly under Engineering
+Productivity may continue in our Matrix channel.
+
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
+  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
+</picture><br>
+    
+We don’t write unit tests run in the test harnesses we own;
+developers are best suited for &mdash; and responsible &mdash; for that.
 
 We generally don’t write functional tests run in the harnesses we own. However,
 we may help here occasionally, mainly when this is done in conjunction with
