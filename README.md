@@ -11,8 +11,8 @@ Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.
 
 <br />
 
-!['Project Status: Under construction'][project-status-badge]
 [!['License: Attribution 4.0 International (CC BY 4.0)'][license-badge--shields]][license-badge-url]
+!['Project Status: Under construction'][project-status-badge]
 
 </div>
 
