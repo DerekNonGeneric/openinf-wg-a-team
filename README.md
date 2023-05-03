@@ -84,27 +84,28 @@ We’re a friendly bunch of people happy to help you; we want to hear about your
 ideas and problems. Please let us know what you think we can do to help you work
 more productively.
 
-See our team roster(s) below for a list of folks on “The A-Team”&hellip;
-
-<!--
-`ncu-team sync` command updates the special >>ncu-team-sync.team($org/$team)<<
-comment blocks below with a list of members under the specified team.
-
-See: https://nodejs.github.io/node-core-utils/docs/ncu-team.html#synchronize-files-with-special-blocks
--->
+See our team rosters below for a list of folks on “the A-Team”&hellip;
 
 <br />
 
-### A-Team Collaborator Roster
+### A-Team Collaborators
 
-<!-- ncu-team-sync.team(OpenINF/wg-a-team) -->
+#### Persons Roster
 
-- [@DerekNonGeneric](https://github.com/DerekNonGeneric) - Derek Lewis
-- [@emmitrovic](https://github.com/emmitrovic) - Milena Mitrovic
-- [@jorgebucaran](https://github.com/jorgebucaran) - Jorge Bucaran
-- [@smorimoto](https://github.com/smorimoto) - Sora Morimoto
+| Name            | Organization             | Engineering Role   | GitHub Handle        |
+| --------------- | ------------------------ | ------------------ | -------------------- |
+| Derek Lewis     | AMPHTML, OpenINF, et al. | Development        | [@DerekNonGeneric][] |
+| Milena Mitrovic | OpenINF                  | Design / UI / UX   | [@emmitrovic][]      |
+| Jorge Bucaran   | OpenINF, et al.          | Quality Assurance  | [@jorgebucaran][]    |
+| Sora Morimoto   | TC39, OpenINF, et al.    | Product Management | [@smorimoto][]       |
 
-<!-- ncu-team-sync end -->
+#### AI Non-Persons Roster
+
+| Name    | Organization | Engineering Role     |
+| ------- | ------------ | -------------------- |
+| Bard    | Google AI    | Large Language Model |
+| ChatGPT | OpenAI       | Large Language Model |
+| Claude  | Anthropic    | Large Language Model |
 
 <br />
 
@@ -275,6 +276,10 @@ us.
 <!-- BEGIN LINK DEFINITIONS -->
 
 [**@OpenINF**]: https://github.com/OpenINF
+[@DerekNonGeneric]: https://github.com/DerekNonGeneric 'GitHub profile of Derek Lewis'
+[@emmitrovic]: https://github.com/emmitrovic 'GitHub profile of Milena Mitrovic'
+[@jorgebucaran]: https://github.com/jorgebucaran 'GitHub profile of Jorge Bucaran'
+[@smorimoto]: https://github.com/smorimoto 'GitHub profile of Sora Morimoto'
 
 <!-- 3P Tools -->
 [asbuild]: https://github.com/OpenINF/openinf-asbuild
