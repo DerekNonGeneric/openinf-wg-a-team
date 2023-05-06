@@ -1,8 +1,3 @@
-<!-- Begin GitHub-Flavored Markdown (GFM)
-See: https://docs.github.com/get-started/writing-on-github
-Spec: https://github.github.com/gfm
--->
-
 <div align="center">
 
 ## @OpenINF/wg-a-team
@@ -32,11 +27,31 @@ goal. Contact us for assistance or to share your ideas.
 
 </div>
 
-<br />
+<br /><br />
 
 ---
 
+<br />
+
+### Table of Contents
+
+- [Ahoy!](#ahoy)
+- [Our Mission](#our-mission)
+- [Connecting with the Team](#connecting-with-the-team)
+- [A-Team Collaborators](#a-team-collaborators)
+- [What We Work On](#what-we-work-on)
+- [What We Do Not Work On](#what-we-do-not-work-on)
+- [Meetings](#meetings)
+- [Goals and Projects](#goals-and-projects)
+- [Getting Involved](#getting-involved)
+- [Contributing](#contributing)
+- [License](#license)
+
 <br /><br />
+
+---
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
@@ -49,7 +64,13 @@ Integrity WG meta-team and Engineering Operations. For now, many discussions
 around the test and automation work that was formerly under Engineering
 Productivity may continue in our Matrix channel.
 
+</section>
+
 <br />
+
+<section>
+
+### Ahoy!
 
 Welcome to the homepage of the Engineering Productivity
 <abbr title="Working Group">WG</abbr> (called “the A-Team” for nostalgic
@@ -67,6 +88,12 @@ specific focus on work that increases the productivity of those teams.
 
 We are part of the [Release & Productivity meta-team][release-n-productiv-team].
 
+</section>
+
+<br />
+
+<section>
+
 ### Our Mission
 
 The Engineering Productivity WG is a diverse group of engineers passionate about
@@ -78,6 +105,12 @@ maintain, and extend a diverse array of sustainable tools and systems that
 derive and deliver information on the quality of OpenINF’s products and enhance
 the impact and effectiveness of the OpenINF community.
 
+</section>
+
+<br />
+
+<section>
+
 ### Connecting with the Team
 
 We’re a friendly bunch of people happy to help you; we want to hear about your
@@ -86,7 +119,11 @@ more productively.
 
 See our team rosters below for a list of folks on “the A-Team”&hellip;
 
+</section>
+
 <br />
+
+<section>
 
 ### A-Team Collaborators
 
@@ -107,7 +144,11 @@ See our team rosters below for a list of folks on “the A-Team”&hellip;
 | ChatGPT | OpenAI       | Large Language Model |
 | Claude  | Anthropic    | Large Language Model |
 
+</section>
+
 <br />
+
+<section>
 
 ### What We Work On
 
@@ -134,7 +175,11 @@ below represent the general scope of our activities.
 - GitHub Actions
 - code coverage
 
+</section>
+
 <br />
+
+<section>
 
 ### What We Do Not Work On
 
@@ -158,7 +203,11 @@ tests independently, but we sometimes contribute tests here as part of the
 bootstrapping process. As with unit tests, developers are best suited to writing
 functional tests as they understand overall test coverage and design.
 
+</section>
+
 <br />
+
+<section>
 
 ### Meetings
 
@@ -194,7 +243,11 @@ please join us!
 | 2023-12-05 | Tuesday     | 12:00 PM PDT |
 | 2023-12-19 | Tuesday     | 12:00 PM PDT |
 
+</section>
+
 <br />
+
+<section>
 
 ### Goals and Projects
 
@@ -206,7 +259,11 @@ For a list of projects we own, see the [Project Central wiki page][].
 
 Periodic team updates are posted to the [`openinf-auto-tooling` mailing list][].
 
+</section>
+
 <br />
+
+<section>
 
 ### Getting Involved
 
@@ -246,6 +303,34 @@ Look over our list and see if there is anything that you’d like to help with
 </dl>
 
 If you have questions or want to sign up, please find us on Matrix or Twitter.
+
+</section>
+
+<br /><br />
+
+---
+
+<br />
+
+### Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to
+discuss what you would like to change. If for whatever reason you spot something
+to fix but cannot patch it yourself, please [open an issue][].
+
+<br />
+
+### License
+
+This project is licensed under either of
+
+- [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+- [MIT license](https://opensource.org/licenses/MIT)
+
+at your option.
+
+The [SPDX](https://spdx.dev) license identifier for this project is
+`MIT OR Apache-2.0`.
 
 <br /><br />
 
