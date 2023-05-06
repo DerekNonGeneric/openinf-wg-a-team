@@ -367,6 +367,7 @@ us.
 [@smorimoto]: https://github.com/smorimoto 'GitHub profile of Sora Morimoto'
 
 <!-- 3P Tools -->
+
 [asbuild]: https://github.com/OpenINF/openinf-asbuild
 [depot_tools]: https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools.html
 [mach]: https://firefox-source-docs.mozilla.org/mach/index.html
@@ -375,6 +376,7 @@ us.
   https://firefox-source-docs.mozilla.org/web-platform/index.html
 
 <!-- Misc. doc links -->
+
 [`openinf-auto-tooling` mailing list]:
   https://groups.google.com/g/openinf-auto-tooling
 [tc39-proposal-assertion-error]:
@@ -402,14 +404,34 @@ us.
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
 
 <!-- Readme template links -->
-[conventional-commits-badge]: https://img.shields.io/badge/commit%20style-Conventional-%23fa6673?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBhdGggc3R5bGU9ImZpbGw6ICNGRkYiIGQ9Ik0xNSwyQTEzLDEzLDAsMSwxLDIsMTUsMTMsMTMsMCwwLDEsMTUsMm0wLTJBMTUsMTUsMCwxLDAsMzAsMTUsMTUsMTUsMCwwLDAsMTUsMFoiLz48L3N2Zz4K 'Commit Style: Conventional Commits'
-[conventional-commits-url]: https://www.conventionalcommits.org 'Commit Style: Conventional Commits'
+
+[conventional-commits-badge]:
+  https://img.shields.io/badge/commit%20style-Conventional-%23fa6673?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBhdGggc3R5bGU9ImZpbGw6ICNGRkYiIGQ9Ik0xNSwyQTEzLDEzLDAsMSwxLDIsMTUsMTMsMTMsMCwwLDEsMTUsMm0wLTJBMTUsMTUsMCwxLDAsMzAsMTUsMTUsMTUsMCwwLDAsMTUsMFoiLz48L3N2Zz4K
+  'Commit Style: Conventional Commits'
+[conventional-commits-url]:
+  https://www.conventionalcommits.org
+  'Commit Style: Conventional Commits'
 [give it a star ⭐️]: https://github.com/OpenINF/wg-a-team/stargazers
-[license-badge--shields]: https://img.shields.io/badge/license-CC_BY_4.0-blue.svg?logo=github 'License: CC-BY-4.0 badge'
-[license-badge-url]: https://spdx.org/licenses/CC-BY-4.0.html 'License: CC BY 4.0'
-[matrix-badge--shields]: https://img.shields.io/badge/matrix-join%20chat-%2346BC99?logo=matrix 'Chat on Matrix badge'
-[matrix-url]: https://matrix.to/#/#openinf-space:matrix.org 'You&apos;re invited to talk on Matrix'
-[prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier 'Code Style: Prettier badge'
+[license-badge--shields]:
+  https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg?logo=github
+  'License: MIT/Apache 2.0'
+[license-badge-url]: #license 'License: MIT/Apache 2.0'
+[matrix-badge--shields]:
+  https://img.shields.io/badge/matrix-join%20chat-%2346BC99?logo=matrix
+  'Chat on Matrix'
+[matrix-url]:
+  https://matrix.to/#/#openinf-space:matrix.org
+  "You're invited to talk on Matrix"
+[npm-badge--shields]:
+  https://img.shields.io/badge/packages-6-2a2a2a.svg?logo=npm
+  'View our packages on npm'
+[npm-badge-url]:
+  https://www.npmjs.com/org/openinf
+  "View all of OpenINF's packages published to the npm registry"
+[open an issue]: https://github.com/OpenINF/wg-a-team/issues
+[prettier-badge]:
+  https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier
+  'Code Style: Prettier'
 [prettier-url]: https://prettier.io/playground 'Code Style: Prettier'
-[project-status-badge]: https://img.shields.io/badge/project%20status-under%20construction-orange 'Project Status: Under construction badge'
+
 <!-- END LINK DEFINITIONS -->
