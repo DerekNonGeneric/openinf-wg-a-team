@@ -6,7 +6,8 @@ Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.
 
 <br />
 
-[!['License: Attribution 4.0 International (CC BY 4.0)'][license-badge--shields]][license-badge-url]
+[!['View on npm'][npm-badge--shields]][npm-badge-url]
+[!['License: MIT/Apache-2.0'][license-badge--shields]][license-badge-url]
 !['Project Status: Under construction'][project-status-badge]
 
 </div>
@@ -433,5 +434,6 @@ us.
   https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier
   'Code Style: Prettier'
 [prettier-url]: https://prettier.io/playground 'Code Style: Prettier'
+[project-status-badge]: https://img.shields.io/badge/project%20status-under%20construction-orange 'Project Status: Under construction badge'
 
 <!-- END LINK DEFINITIONS -->
