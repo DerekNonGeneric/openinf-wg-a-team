@@ -217,6 +217,12 @@ typically discuss status, and new projects, have demonstrations of the latest
 tools & features, and sometimes even engage in bikeshedding. All are welcome;
 please join us!
 
+<details>
+
+<summary><h4>Planning for Past &amp; Future Events</h4></summary>
+
+#### Dates &amp; Times
+
 | Date       | Day of Week | Time         |
 | ---------- | ----------- | ------------ |
 | 2023-02-14 | Tuesday     | 12:00 PM PDT |
@@ -243,6 +249,8 @@ please join us!
 | 2023-11-21 | Tuesday     | 12:00 PM PDT |
 | 2023-12-05 | Tuesday     | 12:00 PM PDT |
 | 2023-12-19 | Tuesday     | 12:00 PM PDT |
+
+</details>
 
 </section>
 
