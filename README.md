@@ -59,7 +59,7 @@ goal. Contact us for assistance or to share your ideas.
   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
 </picture><br>
 
-As of 2023-02-14, _the Engineering Productivity team, a.k.a. the A-Team_, is no
+As of 2023-02-14, _the Engineering Productivity group, a.k.a. the A-Team_, is no
 longer a discrete team. Its operations are split between the new Product
 Integrity WG meta-team and Engineering Operations. For now, many discussions
 around the test and automation work that was formerly under Engineering
