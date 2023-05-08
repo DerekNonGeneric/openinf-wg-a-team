@@ -63,7 +63,7 @@ As of 2023-02-14, _the Engineering Productivity group, a.k.a. the A-Team_, is no
 longer a discrete team. Its operations are split between the new Product
 Integrity WG meta-team and Engineering Operations. For now, many discussions
 around the test and automation work that was formerly under Engineering
-Productivity may continue in our Matrix channel.
+Productivity may [continue in our Matrix channel][].
 
 </section>
 
@@ -414,6 +414,7 @@ us.
 
 <!-- Readme template links -->
 
+[continue in our Matrix channel]: https://view.matrix.org/room/!JmqxeUehJySSTeTxsq:mozilla.org
 [conventional-commits-badge]:
   https://img.shields.io/badge/commit%20style-Conventional-%23fa6673?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBhdGggc3R5bGU9ImZpbGw6ICNGRkYiIGQ9Ik0xNSwyQTEzLDEzLDAsMSwxLDIsMTUsMTMsMTMsMCwwLDEsMTUsMm0wLTJBMTUsMTUsMCwxLDAsMzAsMTUsMTUsMTUsMCwwLDAsMTUsMFoiLz48L3N2Zz4K
   'Commit Style: Conventional Commits'
