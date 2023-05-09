@@ -87,7 +87,7 @@ We’re a group of programmers who develop and support a wide range of services,
 tools, and automation that serve the engineering teams at OpenINF, with a
 specific focus on work that increases the productivity of those teams.
 
-We are part of the [Release & Productivity meta-team][release-n-productiv-team].
+We are part of the [Release & Productivity meta-team][wg-release-n-productiv-meta].
 
 </section>
 
@@ -405,10 +405,10 @@ us.
   https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [Quarter of Contribution]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter
-[release-n-productiv-team]: https://github.com/OpenINF/wg-release-n-productiv
-[Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
-[Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv
-[Release Engineering team]: https://github.com/OpenINF/wg-release-n-productiv
+[wg-release-n-productiv-meta]: https://github.com/OpenINF/wg-release-n-productiv-meta
+[Release Engineering team]: https://github.com/OpenINF/wg-release-engineering
+[Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv-meta
+[Release Engineering team]: https://github.com/OpenINF/wg-release-engineering
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
 
