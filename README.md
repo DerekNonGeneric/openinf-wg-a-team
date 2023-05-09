@@ -165,7 +165,7 @@ below represent the general scope of our activities.
 #### Automation
 
 - [web-platform-tests][]
-- CI integration (buildbot/[Taskcluster][]),
+- CI integration ([buildbot](https://github.com/OpenINF/openinf-nodejs-github-bot)/[Taskcluster][]),
 - JS specification ([TC39 AssertionError
   Proposal][tc39-proposal-assertion-error])
 - new test harnesses as needed
