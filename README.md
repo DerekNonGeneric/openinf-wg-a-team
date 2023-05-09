@@ -427,7 +427,7 @@ us.
   'License: MIT/Apache 2.0'
 [license-badge-url]: #license 'License: MIT/Apache 2.0'
 [matrix-badge--shields]:
-  https://img.shields.io/badge/matrix-join%20chat-%2346BC99?logo=matrix
+  https://badgen.net/matrix/members/openinf-space/mozilla.org
   'Chat on Matrix'
 [matrix-url]:
   https://matrix.to/#/#openinf-space:matrix.org
