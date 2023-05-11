@@ -266,8 +266,6 @@ out our project request form.
 
 For a list of projects we own, see the [Project Central wiki page][].
 
-Periodic team updates are posted to the [`openinf-auto-tooling` mailing list][].
-
 </section>
 
 <br />
