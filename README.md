@@ -165,7 +165,7 @@ below represent the general scope of our activities.
 #### Automation
 
 - [web-platform-tests][]
-- CI integration ([buildbot](https://github.com/OpenINF/openinf-nodejs-github-bot)/[Taskcluster][]),
+- CI integration ([openinfbot][]/[Taskcluster][]),
 - JS specification ([TC39 AssertionError
   Proposal][tc39-proposal-assertion-error])
 - new test harnesses as needed
@@ -378,6 +378,7 @@ us.
 [asbuild]: https://github.com/OpenINF/openinf-asbuild
 [depot_tools]: https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools.html
 [mach]: https://firefox-source-docs.mozilla.org/mach/index.html
+[openinfbot]: https://github.com/OpenINF/openinfbot
 [Taskcluster]: https://taskcluster.net
 [web-platform-tests]:
   https://firefox-source-docs.mozilla.org/web-platform/index.html
