@@ -214,9 +214,20 @@ functional tests as they understand overall test coverage and design.
 
 We have a fortnightly meeting every other Tuesday at noon US Pacific Time. We
 typically discuss status, and new projects, have demonstrations of the latest
-tools & features, and sometimes even engage in bikeshedding. All are welcome;
-please join us!
+tools & features, and sometimes even engage in bikeshedding.
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/info.svg">
+  <img alt="Info" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/info.svg">
+</picture><br />
+
+These regularly-scheduled A-Team team meetings are not networking events;
+however, we will occasionally host invited experts from the community to
+make presentations relevant to our objectives and likely revelant to other
+community members as well.
+
+All are welcome; please join us!
+  
 <details>
 
 <summary><h4>Planning for Past &amp; Future Events</h4></summary>
