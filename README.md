@@ -1,17 +1,16 @@
 <!-- markdownlint-disable-next-line line-length -->
 <a href="##"><img src="https://raw.githubusercontent.com/OpenINF/openinf.github.io/live/assets/img/svg/logogram-color.svg?sanitize=true" alt="OpenINF logo" title="OpenINF" align="right" height="96" width="96" /></a>
 
-<div align="center">
+<div align="left">
 
-## @OpenINF/wg-a-team
+## wg-a-team
 
-Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the A-Team
+> Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.a. the A-Team
 
 <br />
 
 [!['View on npm'][npm-badge--shields]][npm-badge-url]
 [!['License: MIT/Apache-2.0'][license-badge--shields]][license-badge-url]
-!['Project Status: Under construction'][project-status-badge]
 
 </div>
 
@@ -19,7 +18,8 @@ Home of the Engineering Productivity <abbr title="Working Group">WG</abbr>, a.k.
 
 We are the A-Team, focused on enhancing productivity for OpenINF’s engineering
 teams. Our experts develop and support tools and automation to achieve this
-goal. Contact us for assistance or to share your ideas.
+goal. We are constantly working to improve this repository, so please feel free
+to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
