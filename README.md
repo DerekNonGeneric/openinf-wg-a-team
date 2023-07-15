@@ -142,11 +142,11 @@ See our team rosters below for a list of folks on “the A-Team”&hellip;
 
 #### AI Non-Persons Roster
 
-| Name    | Organization | Engineering Role     |
-| ------- | ------------ | -------------------- |
-| Bard    | Google AI    | Large Language Model |
-| ChatGPT | OpenAI       | Large Language Model |
-| Claude  | Anthropic    | Large Language Model |
+| Name    | Organization | Engineering Role     | Updates URL                                                       |
+| ------- | ------------ | -------------------- | ----------------------------------------------------------------- |
+| Bard    | Google AI    | Large Language Model | https://bard.google.com/updates                                   |
+| ChatGPT | OpenAI       | Large Language Model | https://help.openai.com/en/articles/6825453-chatgpt-release-notes |
+| Claude  | Anthropic    | Large Language Model | https://www.anthropic.com/index?subjects=claude                   |
 
 </section>
 
