@@ -37,6 +37,73 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
+### On the Nature of Our Team's Work
+
+<br />
+
+_Productivity_ is a fundamental metric quantifying the efficiency of a process.
+It is defined as the ratio between the aggregate output generated and the total
+input resources utilized, commonly represented mathematically as:
+
+<div align="center"><br /><br />
+
+<figure>
+
+```math
+$$
+\text{Productivity} \equiv \text{Output} : \text{Input}
+$$
+```
+
+<figcaption>
+
+Fig. 1 - Equation expressing the productivity ratio as the output divided by the
+input, denoted using colon notation.
+
+</figcaption>
+
+</figure>
+
+<br /><br /></div>
+
+After baseline productivity is characterized, temporal analysis and comparison
+of this measure enables inference regarding productivity gains, losses, or
+stagnation. Information systems thus facilitate longitudinal tracking of
+productivity, providing insight into the impact of interventions and exogenous
+factors on operational efficiency.
+
+Maximizing productivity is an essential goal across industries and disciplines.
+Elucidating the determinants of productivity through rigorous measurement and
+evidence-based investigation is critical for informing managerial strategy and
+resource allocation. The study of productivity therefore constitutes a vital
+research area with implications for technological progress, economic growth, and
+organizational success.
+
+<div align="center"><br /><br />
+
+<figure>
+
+```math
+$$
+\text{Productivity (in percent)} \equiv \frac{\text{Output}}{\text{Input}} \times 100
+$$
+```
+
+<figcaption>
+
+Fig. 2 - Equation showing productivity expressed as a percentage, by multiplying
+the output/input ratio by 100.
+
+</figcaption>
+
+</figure>
+
+<br /><br /></div>
+
+---
+
+<br />
+
 ### Table of Contents
 
 - [Ahoy!](#ahoy)
