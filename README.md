@@ -35,16 +35,16 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 ---
 
-<a name="on-the-nature-of-our-teamwork"></a><br />
+<section id="on-the-nature-of-our-teamwork"><br />
 
 ### On the Nature of Our Team’s Work
 
-<a name="termdef-productivity"></a><br />
-
-<em><dfn data-dfn-type="term" role="button" aria-expanded="false" tabindex="0">Productivity</dfn></em>
+<section id="termdef-productivity"><strong><em>
+  <!-- markdownlint-disable-next-line line-length -->
+  <dfn data-dfn-type="termdef" id="def-for-termdef-productivity" role="button" aria-expanded="false" tabindex="0">productivity <a role="button" aria-expanded="false" tabindex="0" href="./#termdef-productivity" id="ref-for-termdef-productivity">⚓</a></dfn></em></strong>
 is a fundamental metric quantifying the efficiency of a process. It is defined
 as the ratio between the aggregate output generated and the total input resources
-utilized, commonly represented mathematically as:
+utilized, commonly represented mathematically as:</section>
 
 <div align="center"><br /><br />
 
@@ -81,9 +81,9 @@ resource allocation. The study of productivity therefore constitutes a vital
 research area with implications for technological progress, economic growth, and
 organizational success.
 
-<div align="center"><br /><br />
+<br /><br />
 
-<figure>
+<div align="center"><figure>
 
 ```math
 $$
@@ -99,9 +99,11 @@ $$
   multiplied by 100.</em>
 </figcaption>
 
-</figure>
+</figure></div>
 
-<br /><br /></div>
+</section>
+
+<br /><br />
 
 ---
 
