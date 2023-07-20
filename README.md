@@ -41,13 +41,19 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
-_Productivity_ is a fundamental metric quantifying the efficiency of a process.
+<dfn data-dfn-type="term" data-export="" id="termdef-productivity" role="button" aria-expanded="false" tabindex="0">
+
+<em>Productivity</em>
+
+</dfn>
+
+is a fundamental metric quantifying the efficiency of a process.
 It is defined as the ratio between the aggregate output generated and the total
 input resources utilized, commonly represented mathematically as:
 
 <div align="center"><br /><br />
 
-<figure>
+<figure id="productivity-ratio-equation">
 
 ```math
 $$
@@ -56,10 +62,11 @@ $$
 ```
 
 <figcaption>
-
-Fig. 1 - Equation expressing the productivity ratio as the output divided by the
-input, denoted using colon notation.
-
+  <em><strong>Fig. 1</strong> Equation expressing the
+    <a href="./#termdef-productivity" id="ref-for-termdef-productivity③"
+      >productivity</a
+    > ratio as the output divided by the input, denoted using colon
+    notation.</em>
 </figcaption>
 
 </figure>
@@ -90,10 +97,11 @@ $$
 ```
 
 <figcaption>
-
-Fig. 2 - Equation showing productivity expressed as a percentage, by multiplying
-the output/input ratio by 100.
-
+  <em><strong>Fig. 2</strong> Equation expressing the
+    <a href="./#termdef-productivity" id="ref-for-termdef-productivity③"
+      >productivity</a
+    > ratio (in percent) as the output divided by the input (in fractional form),
+  multiplied by 100.</em>
 </figcaption>
 
 </figure>
