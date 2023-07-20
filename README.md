@@ -35,22 +35,16 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 ---
 
-<br />
+<a name="on-the-nature-of-our-teamwork"></a><br />
 
-### On the Nature of Our Team's Work
+### On the Nature of Our Team’s Work
 
-<br />
+<a name="termdef-productivity"></a><br />
 
-<a name="termdef-productivity"></a>
-<dfn data-dfn-type="term" data-export="" id="termdef-productivity" role="button" aria-expanded="false" tabindex="0">
-
-<em>Productivity</em>
-
-</dfn>
-
-is a fundamental metric quantifying the efficiency of a process.
-It is defined as the ratio between the aggregate output generated and the total
-input resources utilized, commonly represented mathematically as:
+<em><dfn data-dfn-type="term" role="button" aria-expanded="false" tabindex="0">Productivity</dfn></em>
+is a fundamental metric quantifying the efficiency of a process. It is defined
+as the ratio between the aggregate output generated and the total input resources
+utilized, commonly represented mathematically as:
 
 <div align="center"><br /><br />
 
