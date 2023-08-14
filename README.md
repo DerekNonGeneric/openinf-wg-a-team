@@ -210,7 +210,7 @@ See our team rosters below for a list of folks on “the A-Team”&hellip;
 | Derek Lewis     | AMPHTML, OpenINF, et al. | Development        | [@DerekNonGeneric][] |
 | Milena Mitrovic | OpenINF                  | Design / UI / UX   | [@emmitrovic][]      |
 | Jorge Bucaran   | OpenINF, et al.          | Quality Assurance  | [@jorgebucaran][]    |
-| VACANT          | VACANT                   | Product Management | VACANT               |
+| Sora Morimoto   | TC39, OpenINF, et al.    | Product Management | [@smorimoto][]       |
 
 #### AI Non-Persons Roster
 
