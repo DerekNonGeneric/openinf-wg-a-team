@@ -318,7 +318,7 @@ All are welcome; please join us!
 | 2023-03-28 | Tuesday     | 12:00 PM PDT               |                                                         |
 | 2023-04-04 | Tuesday     | 12:00 PM PDT               |                                                         |
 | 2023-04-18 | Tuesday     | 12:00 PM PDT               | A-Team Fortnightly Team Meeting                         |
-| 2023-04-19 | Tuesday     | 12:00 PM PDT               | ICU4X Virtual Open House[\*][3]                         |
+| 2023-04-19 | Wednesday   | 12:00 PM PDT               | ICU4X Virtual Open House[\*][3]                         |
 | 2023-05-02 | Tuesday     | 12:00 PM PDT               |                                                         |
 | 2023-05-16 | Tuesday     | 12:00 PM PDT               |                                                         |
 | 2023-05-30 | Tuesday     | 12:00 PM PDT               |                                                         |
@@ -334,7 +334,7 @@ All are welcome; please join us!
 | 2023-10-17 | Tuesday     | 11:00 AM PDT[\*][1][\*][2] | Character and Script Encoding Virtual Open House[\*][3] |
 | 2023-10-17 | Tuesday     | 12:00 PM PDT               | A-Team Working Session                                  |
 | 2023-11-07 | Tuesday     | 12:00 PM PDT               | Unicode Technology Workshop (UTW) &mdash; Day 1[\*][4]  |
-| 2023-11-08 | Tuesday     | 12:00 PM PDT               | Unicode Technology Workshop (UTW) &mdash; Day 2[\*][4]  |
+| 2023-11-08 | Wednesday   | 12:00 PM PDT               | Unicode Technology Workshop (UTW) &mdash; Day 2[\*][4]  |
 | 2023-11-21 | Tuesday     | 12:00 PM PDT               | A-Team Fortnightly Team Meeting                         |
 | 2023-12-05 | Tuesday     | 12:00 PM PDT               |                                                         |
 | 2023-12-19 | Tuesday     | 12:00 PM PDT               |                                                         |
