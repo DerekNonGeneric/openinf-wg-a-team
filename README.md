@@ -283,7 +283,7 @@ functional tests as they understand overall test coverage and design.
 
 <br />
 
-<section>
+<section id="meetings">
 
 ### Meetings
 
@@ -303,11 +303,17 @@ community members as well.
 
 All are welcome; please join us!
   
-<details open="true">
+<section id="team-itinerary"><details><summary>
 
-<summary><h4>Planning for Past &amp; Future Events</h4></summary>
+#### 🗓️ Team Itinerary
 
-#### Dates &amp; Times
+<span role="doc-subtitle">Tenative & Historical, 2023</span>
+
+</summary>
+
+<div align="center"><figure aria-details="tbl-desc">
+
+<figcaption><em><strong>Tab. 1</strong> Notable Events Since A-Team Inception c. 2023</em></figcaption><br /><br />
 
 | Date       | Day of Week | Time                       | Event Name                                              |
 | ---------- | ----------- | -------------------------- |:------------------------------------------------------- |
@@ -338,16 +344,32 @@ All are welcome; please join us!
 | 2023-11-21 | Tuesday     | 12:00 PM PST               | A-Team Fortnightly Team Meeting                         |
 | 2023-12-05 | Tuesday     | 12:00 PM PST               |                                                         |
 | 2023-12-19 | Tuesday     | 12:00 PM PST               |                                                         |
+   
+</figure>
 
+<details id="tbl-desc">
+   <summary>Description</summary>
+   <span>
+      The table contains the complete list
+      of A-Team events for the year 2023.
+   </span>
 </details>
 
-</section>
+<br />
+
+</details></div>
+
+</section> <!-- END #team-itinerary -->
+
+</section> <!-- END #meetings -->
 
 <br />
 
 <section>
 
 ### Goals and Projects
+
+<br /><br />
 
 We set and deliver quarterly goals, which is usually an excellent place to see
 what we’re up to. If you’d like us to incorporate some work into our plans, fill
