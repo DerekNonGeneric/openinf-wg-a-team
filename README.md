@@ -313,7 +313,7 @@ All are welcome; please join us!
 
 <div align="center"><figure aria-details="tbl-desc">
 
-<figcaption><em><strong>Tab. 1</strong> Notable Events Since A-Team Inception c. 2023</em></figcaption><br /><br />
+<figcaption><em><strong>Tab. 1</strong> Notable Events Since The New Age of AI</em></figcaption><br /><br />
 
 | Date       | Day of Week | Time                       | Event Name                                              |
 | ---------- | ----------- | -------------------------- |:------------------------------------------------------- |
@@ -350,8 +350,8 @@ All are welcome; please join us!
 <details id="tbl-desc">
    <summary>Description</summary>
    <span>
-      The table contains the complete list
-      of A-Team events since The New Age of AI.
+      The table contains date-times, expressed in the Pacific Time Zone, 
+      for A-Team events since being reimagined for our New Age of AI.
    </span>
 </details>
 
