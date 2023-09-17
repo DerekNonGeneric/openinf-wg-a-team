@@ -317,7 +317,7 @@ All are welcome; please join us!
 
 | Date       | Day of Week | Time                       | Event Name                                              |
 | ---------- | ----------- | -------------------------- |:------------------------------------------------------- |
-| 2023-02-14 | Tuesday     | 12:00 PM PST               |                                                         |
+| 2023-02-14 | Tuesday     | 12:00 PM PST               | The New Age of AI: A Convo with Google Brain            |
 | 2023-02-28 | Tuesday     | 12:00 PM PST               |                                                         |
 | 2023-03-07 | Tuesday     | 12:00 PM PST               |                                                         |
 | 2023-03-21 | Tuesday     | 12:00 PM PDT               |                                                         |
@@ -351,7 +351,7 @@ All are welcome; please join us!
    <summary>Description</summary>
    <span>
       The table contains the complete list
-      of A-Team events for the year 2023.
+      of A-Team events since The New Age of AI.
    </span>
 </details>
 
