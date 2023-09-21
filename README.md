@@ -307,13 +307,13 @@ All are welcome; please join us!
 
 #### 🗓️ Team Itinerary
 
-<span role="doc-subtitle">Tenative & Historical, 2023</span>
+<span role="doc-subtitle">Tentative & Historical, 2023</span>
 
 </summary>
 
 <div align="center"><figure aria-details="tbl-desc">
 
-<figcaption><em><strong>Tab. 1</strong> Notable Events Since The New Age of AI</em></figcaption><br /><br />
+<figcaption><em><strong>Table. 3</strong> Notable Events Since The New Age of AI</em></figcaption><br /><br />
 
 | Date       | Day of Week | Time                       | Event Name                                              |
 | ---------- | ----------- | -------------------------- |:------------------------------------------------------- |
@@ -348,11 +348,12 @@ All are welcome; please join us!
 </figure>
 
 <details id="tbl-desc">
-   <summary>Description</summary>
-   <span>
-      The table contains date-times, expressed in the Pacific Time Zone, 
-      for A-Team events since being reimagined for our New Age of AI.
-   </span>
+  <summary>Description</summary>
+  <span>
+    The table contains dates &amp; times, expressed in the U.S. Pacific Time,
+    while observing daylight savings time, for A-Team events since being
+    re-imagined for our New Age of AI.
+  </span>
 </details>
 
 <br />
