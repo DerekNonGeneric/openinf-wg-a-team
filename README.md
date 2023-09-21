@@ -313,7 +313,7 @@ All are welcome; please join us!
 
 <div align="center"><figure aria-details="tbl-desc">
 
-<figcaption><em><strong>Table. 3</strong> Notable Events Since The New Age of AI</em></figcaption><br /><br />
+<figcaption><em><strong>Table 3.</strong> Notable events since The New Age of AI</em></figcaption><br /><br />
 
 | Date       | Day of Week | Time                       | Event Name                                              |
 | ---------- | ----------- | -------------------------- |:------------------------------------------------------- |
@@ -339,8 +339,8 @@ All are welcome; please join us!
 | 2023-10-03 | Tuesday     | 12:00 PM PDT               | A-Team Fortnightly Team Meeting                         |
 | 2023-10-17 | Tuesday     | 11:00 AM PDT[\*][1][\*][2] | Character and Script Encoding Virtual Open House[\*][3] |
 | 2023-10-17 | Tuesday     | 12:00 PM PDT               | A-Team Working Session                                  |
-| 2023-11-07 | Tuesday     | 12:00 PM PST               | Unicode Technology Workshop (UTW) &mdash; Day 1[\*][4]  |
-| 2023-11-08 | Wednesday   | 12:00 PM PST               | Unicode Technology Workshop (UTW) &mdash; Day 2[\*][4]  |
+| 2023-11-07 | Tuesday     | 12:00 PM PST               | Unicode Technology Workshop (UTW) &mdash; Day 1 [\*][3][†][4] |
+| 2023-11-08 | Wednesday   | 12:00 PM PST               | Unicode Technology Workshop (UTW) &mdash; Day 2 [\*][3][†][4] |
 | 2023-11-21 | Tuesday     | 12:00 PM PST               | A-Team Fortnightly Team Meeting                         |
 | 2023-12-05 | Tuesday     | 12:00 PM PST               |                                                         |
 | 2023-12-19 | Tuesday     | 12:00 PM PST               |                                                         |
