@@ -336,7 +336,6 @@ All are welcome; please join us!
 | 2023-08-22 | Tuesday     | 12:00 PM PDT               |                                                                  |
 | 2023-09-05 | Tuesday     | 12:00 PM PDT               |                                                                  |
 | 2023-09-19 | Tuesday     | 12:00 PM PDT               | A-Team Fortnightly Team Meeting                                  |
-| 2023-10-03 | Tuesday     | 12:00 PM PDT               | A-Team Fortnightly Team Meeting                                  |
 | 2023-10-03 | Tuesday     | 05:00 AM PDT               | A-Team Fortnightly Team Meeting                                  |
 | 2023-10-17 | Tuesday     | 11:00 AM PDT[\*][1][\*][2] | Character and Script Encoding Virtual Open House[\*][3]          |
 | 2023-10-17 | Tuesday     | 12:00 PM PDT               | A-Team Working Session                                           |
@@ -348,7 +347,6 @@ All are welcome; please join us!
 | 2023-12-05 | Tuesday     | 05:00 AM PST               | A-Team Fortnightly Team Meeting                                  |
 | 2023-12-19 | Tuesday     | 05:00 AM PST               | A-Team Fortnightly Team Meeting                                  |
 
-   
 </figure>
 
 <details id="tbl-desc">
