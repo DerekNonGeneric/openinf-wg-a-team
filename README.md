@@ -337,15 +337,16 @@ All are welcome; please join us!
 | 2023-09-05 | Tuesday     | 12:00 PM PDT               |                                                                  |
 | 2023-09-19 | Tuesday     | 12:00 PM PDT               | A-Team Fortnightly Team Meeting                                  |
 | 2023-10-03 | Tuesday     | 12:00 PM PDT               | A-Team Fortnightly Team Meeting                                  |
+| 2023-10-03 | Tuesday     | 05:00 AM PDT               | A-Team Fortnightly Team Meeting                                  |
 | 2023-10-17 | Tuesday     | 11:00 AM PDT[\*][1][\*][2] | Character and Script Encoding Virtual Open House[\*][3]          |
 | 2023-10-17 | Tuesday     | 12:00 PM PDT               | A-Team Working Session                                           |
 | 2023-10-26 | Thursday    | TBD                        | Web Directions Summit                                            |
 | 2023-10-27 | Friday      | TBD                        | Web Directions Summit                                            |
 | 2023-11-07 | Tuesday     | 12:00 PM PST               | Unicode Technology Workshop (UTW) &mdash; Day 1 [\*][3][†][4]    |
 | 2023-11-08 | Wednesday   | 12:00 PM PST               | Unicode Technology Workshop (UTW) &mdash; Day 2 [\*][3][†][4]    |
-| 2023-11-21 | Tuesday     | 12:00 PM PST               | A-Team Fortnightly Team Meeting                                  |
-| 2023-12-05 | Tuesday     | 12:00 PM PST               |                                                                  |
-| 2023-12-19 | Tuesday     | 12:00 PM PST               |                                                                  |
+| 2023-11-21 | Tuesday     | 05:00 AM PST               | A-Team Fortnightly Team Meeting                                  |
+| 2023-12-05 | Tuesday     | 05:00 AM PST               | A-Team Fortnightly Team Meeting                                  |
+| 2023-12-19 | Tuesday     | 05:00 AM PST               | A-Team Fortnightly Team Meeting                                  |
 
    
 </figure>
@@ -353,7 +354,7 @@ All are welcome; please join us!
 <details id="tbl-desc">
   <summary>Description</summary>
   <span>
-    The table contains dates &amp; times, expressed in the U.S. Pacific Time,
+    The table contains dates &amp; timings, expressed in the U.S. Pacific Time,
     while observing daylight savings time, for A-Team events since being
     re-imagined for our New Age of AI.
   </span>
