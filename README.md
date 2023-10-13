@@ -35,9 +35,13 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 ---
 
-<section id="on-the-nature-of-our-teamwork"><br />
+<br />
+
+<section id="on-the-nature-of-our-teamwork">
 
 ### On the Nature of Our Team’s Work
+
+<br />
 
 <section id="termdef-productivity"><strong><em>
   <!-- markdownlint-disable-next-line line-length -->
@@ -111,9 +115,11 @@ $$
 
 ### Table of Contents
 
+<br />
+
 - [Ahoy!](#ahoy)
 - [Our Mission](#our-mission)
-- [Connecting with the Team](#connecting-with-the-team)
+- [Connecting with the Team](#connecting-with-the-a-team)
 - [A-Team Collaborators](#a-team-collaborators)
 - [What We Work On](#what-we-work-on)
 - [What We Do Not Work On](#what-we-do-not-work-on)
@@ -142,11 +148,13 @@ Productivity may [continue in our Matrix channel][].
 
 </section>
 
-<br />
+<br /><br />
 
-<section>
+<section id="ahoy">
 
 ### Ahoy!
+
+<br />
 
 Welcome to the homepage of the Engineering Productivity
 <abbr title="Working Group">WG</abbr> (called “the A-Team” for nostalgic
@@ -166,11 +174,13 @@ We are part of the [Release & Productivity meta-team][wg-release-n-productiv-met
 
 </section>
 
-<br />
+<br /><br />
 
-<section>
+<section id="our-mission">
 
 ### Our Mission
+
+<br />
 
 The Engineering Productivity WG is a diverse group of engineers passionate about
 improving engineering quality and productivity at OpenINF. We are experts in
@@ -183,27 +193,37 @@ the impact and effectiveness of the OpenINF community.
 
 </section>
 
+<br /><br />
+
+<section id="connecting-with-the-a-team">
+
+### Connecting with the A-Team
+
 <br />
-
-<section>
-
-### Connecting with the Team
 
 We’re a friendly bunch of people happy to help you; we want to hear about your
 ideas and problems. Please let us know what you think we can do to help you work
 more productively.
 
-See our team rosters below for a list of folks on “the A-Team”&hellip;
+See our team rosters below for a list of folks on our “A-Team”&hellip;
 
-</section>
+</section> <!-- END #connecting-with-the-team -->
 
-<br />
+<br /><br />
 
-<section>
+<section id="a-team-collaborators">
 
 ### A-Team Collaborators
 
+<br />
+
+<section id="persons-roster">
+
 #### Persons Roster
+
+<br />
+
+<div width="100%" align="center">
 
 | Name            | Organization             | Engineering Role   | GitHub Handle        |
 | --------------- | ------------------------ | ------------------ | -------------------- |
@@ -212,7 +232,19 @@ See our team rosters below for a list of folks on “the A-Team”&hellip;
 | Jorge Bucaran   | OpenINF, et al.          | Quality Assurance  | [@jorgebucaran][]    |
 | Sora Morimoto   | TC39, OpenINF, et al.    | Product Management | [@smorimoto][]       |
 
+</div>
+
+</section> <!-- END #person-roster -->
+
+<br /><br />
+
+<section id="ai-non-persons-roster">
+
 #### AI Non-Persons Roster
+
+<br />
+
+<div width="100%" align="center">
 
 | Name    | Organization | Engineering Role     | Updates URL                                                       |
 | ------- | ------------ | -------------------- | ----------------------------------------------------------------- |
@@ -220,24 +252,38 @@ See our team rosters below for a list of folks on “the A-Team”&hellip;
 | ChatGPT | OpenAI       | Large Language Model | https://help.openai.com/en/articles/6825453-chatgpt-release-notes |
 | Claude  | Anthropic    | Large Language Model | https://www.anthropic.com/index?subjects=claude                   |
 
-</section>
+</div>
 
-<br />
+</section> <!-- END #ai-non-persons-roster -->
 
-<section>
+</section> <!-- END #a-team-collaborators -->
+
+<br /><br />
+
+<section id="what-we-work-on">
 
 ### What We Work On
+
+<br />
 
 We work on various things that will vary from quarter to quarter, but the lists
 below represent the general scope of our activities.
 
+<br /><br />
+
 #### Services
+
+<br />
 
 - Autoland
 - Treeherder/Perfherder
 - TestInformant
 
+<br /><br />
+
 #### Automation
+
+<br />
 
 - [web-platform-tests][]
 - CI integration ([openinfbot][]/[Taskcluster][]),
@@ -245,19 +291,25 @@ below represent the general scope of our activities.
   Proposal][tc39-proposal-assertion-error])
 - new test harnesses as needed
 
+<br /><br />
+
 #### Tools
+
+<br />
 
 - [mach][]
 - GitHub Actions
 - code coverage
 
-</section>
+</section> <!-- END #what-we-work-on -->
 
-<br />
+<br /><br />
 
-<section>
+<section id="what-we-do-not-work-on">
 
 ### What We Do Not Work On
+
+<br />
 
 We don’t own [asbuild][], [Taskcluster][], or [depot_tools][] (those belong to
 our Release Engineering team, the Mozilla Taskcluster team, and a few select
@@ -279,13 +331,15 @@ tests independently, but we sometimes contribute tests here as part of the
 bootstrapping process. As with unit tests, developers are best suited to writing
 functional tests as they understand overall test coverage and design.
 
-</section>
+</section> <!-- END #what-we-do-not-work-on -->
 
-<br />
+<br /><br />
 
 <section id="meetings">
 
 ### Meetings
+
+<br />
 
 Every other Tuesday, we have a fortnightly meeting that lets out before noon U.S.
 Pacific Time. We typically discuss status, and new projects, have demonstrations
@@ -302,6 +356,10 @@ make presentations relevant to our objectives and likely relevant to other
 community members as well.
 
 All are welcome; please join us!
+
+<!-- NOT YET END #meetings -->
+
+<br /><br />
   
 <section id="team-itinerary"><details><summary>
 
@@ -358,35 +416,35 @@ All are welcome; please join us!
   </span>
 </details>
 
-<br />
+<br /><br />
 
-</details></div>
-
-</section> <!-- END #team-itinerary -->
+</div></details></section> <!-- END #team-itinerary -->
 
 </section> <!-- END #meetings -->
 
-<br />
+<br /><br />
 
-<section>
+<section id="goals-n-projects">
 
 ### Goals and Projects
 
-<br /><br />
+<br />
 
 We set and deliver quarterly goals, which is usually an excellent place to see
 what we’re up to. If you’d like us to incorporate some work into our plans, fill
 out our project request form.
 
-For a list of projects we own, see the [Project Central wiki page][].
+See the [Project Central wiki page][] for a list of projects we own.
 
 </section>
 
-<br />
+<br /><br />
 
-<section>
+<section id="getting-involved">
 
 ### Getting Involved
+
+<br />
 
 We love contributors! We see community members as one of the keys to our success
 and actively encourage their contributions. Working on the tooling, automation,
@@ -425,7 +483,7 @@ Look over our list and see if there is anything that you’d like to help with
 
 If you have questions or want to sign up, please find us on Matrix or X (formerly Twitter).
 
-</section>
+</section> <!-- END #getiing-involed -->
 
 <br /><br />
 
@@ -435,13 +493,17 @@ If you have questions or want to sign up, please find us on Matrix or X (formerl
 
 ### Contributing
 
+<br />
+
 Pull requests are welcome. For major changes, please open an issue first to
 discuss what you would like to change. If for whatever reason you spot something
 to fix but cannot patch it yourself, please [open an issue][].
 
-<br />
+<br /><br />
 
 ### License
+
+<br />
 
 This project is licensed under either of
 
