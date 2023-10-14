@@ -225,12 +225,35 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
 
 <div width="100%" align="center">
 
-| Name            | Organization             | Engineering Role   | GitHub Handle        |
-| --------------- | ------------------------ | ------------------ | -------------------- |
-| Derek Lewis     | AMPHTML, OpenINF, et al. | Development        | [@DerekNonGeneric][] |
-| Milena Mitrovic | OpenINF                  | Design / UI / UX   | [@emmitrovic][]      |
-| Jorge Bucaran   | OpenINF, et al.          | Quality Assurance  | [@jorgebucaran][]    |
-| Sora Morimoto   | TC39, OpenINF, et al.    | Product Management | [@smorimoto][]       |
+<table>
+ <thead align="left">
+  <tr>
+   <th width="250px">Name
+   <th width="350px">Organization(s)
+   <th width="200px">Engineering Role
+   <th width="200px">GitHub Handle
+ <tbody align="left">
+  <tr>
+   <td>Derek Lewis
+   <td>AMPHTML, OpenINF, et al.
+   <td>Development
+   <td><a href="https://github.com/DerekNonGeneric">@DerekNonGeneric</a>
+  <tr>
+   <td>Milena Mitrovic
+   <td>OpenINF
+   <td>Design / UI / UX
+   <td><a href="https://github.com/emmitrovic">@emmitrovic</a>
+  <tr>
+   <td>Jorge Bucaran
+   <td>OpenINF, et al.
+   <td>Quality Assurance
+   <td><a href="https://github.com/jorgebucaran">@jorgebucaran</a>
+  <tr>
+   <td>Sora Morimoto
+   <td>TC39, OpenINF, et al.
+   <td>Product Management
+   <td><a href="https://github.com/smorimoto">@smorimoto</a>
+</table>
 
 </div>
 
