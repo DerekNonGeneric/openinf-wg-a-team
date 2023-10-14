@@ -245,12 +245,12 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
    <td><a href="https://github.com/emmitrovic">@emmitrovic</a>
   <tr>
    <td>Jorge Bucaran
-   <td>OpenINF, et al.
+   <td>Hyperapp, OpenINF, et al.
    <td>Quality Assurance
    <td><a href="https://github.com/jorgebucaran">@jorgebucaran</a>
   <tr>
    <td>Sora Morimoto
-   <td>TC39, OpenINF, et al.
+   <td>TC39, OCaml, OpenINF, et al.
    <td>Product Management
    <td><a href="https://github.com/smorimoto">@smorimoto</a>
 </table>
