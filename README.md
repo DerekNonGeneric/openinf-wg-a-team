@@ -246,11 +246,30 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
 
 <div width="100%" align="center">
 
-| Name    | Organization | Engineering Role     | Updates URL                                                       |
-| ------- | ------------ | -------------------- | ----------------------------------------------------------------- |
-| Bard    | Google AI    | Large Language Model | https://bard.google.com/updates                                   |
-| ChatGPT | OpenAI       | Large Language Model | https://help.openai.com/en/articles/6825453-chatgpt-release-notes |
-| Claude  | Anthropic    | Large Language Model | https://www.anthropic.com/index?subjects=claude                   |
+<table>
+ <thead align="left">
+  <tr>
+   <th width="100px">Name
+   <th width="100px">Organization
+   <th width="200px">Engineering Role
+   <th width="600px">Updates URL
+ <tbody align="left">
+  <tr>
+   <td>Bard
+   <td>Google AI
+   <td>Large Language Model
+   <td><a href="https://bard.google.com/updates">https://bard.google.com/updates</a>
+  <tr>
+   <td>ChatGPT
+   <td>OpenAI
+   <td>Large Language Model
+   <td><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">https://help.openai.com/en/articles/6825453-chatgpt-release-notes</a>
+  <tr>
+   <td>Claude
+   <td>Anthropic
+   <td>Large Language Model
+   <td><a href="https://www.anthropic.com/index?subjects=claude">https://www.anthropic.com/index?subjects=claude</a>
+</table>
 
 </div>
 
