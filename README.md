@@ -280,17 +280,17 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
   <tr>
    <td>Bard
    <td>Google AI
-   <td>Large Language Model
+   <td>Generative Model
    <td><a href="https://bard.google.com/updates">https://bard.google.com/updates</a>
   <tr>
    <td>ChatGPT
    <td>OpenAI
-   <td>Large Language Model
+   <td>Generative Model
    <td><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">https://help.openai.com/en/articles/6825453-chatgpt-release-notes</a>
   <tr>
    <td>Claude
    <td>Anthropic
-   <td>Large Language Model
+   <td>Generative Model
    <td><a href="https://www.anthropic.com/index?subjects=claude">https://www.anthropic.com/index?subjects=claude</a>
 </table>
 
