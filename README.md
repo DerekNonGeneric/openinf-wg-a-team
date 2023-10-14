@@ -239,6 +239,16 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
    <td>Development
    <td><a href="https://github.com/DerekNonGeneric">@DerekNonGeneric</a>
   <tr>
+   <td><em>Available</em>
+   <td>
+   <td>Development
+   <td>
+  <tr>
+   <td><em>Available</em>
+   <td>
+   <td>Development
+   <td>
+  <tr>
    <td>Milena Mitrovic
    <td>OpenINF
    <td>Design / UI / UX
