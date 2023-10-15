@@ -568,15 +568,23 @@ Character and Script Encoding Virtual Open House[\*][3]
    <td>12:00 PM PDT
    <td>A-Team Working Session
   <tr>
-   <td>2023-10-26
+   <td>2023-10-25
    <td>Thursday
-   <td>TBD
-   <td>Web Directions Summit
+   <td>03:00 PM PDT
+   <td>
+
+[Web Directions Summit][] &mdash; [Day 1][wds-day1]
+
+   </td>
   <tr>
-   <td>2023-10-27
+   <td>2023-10-26
    <td>Friday
-   <td>TBD
-   <td>Web Directions Summit
+   <td>03:00 PM PDT
+   <td>
+
+[Web Directions Summit][] &mdash; [Day 2][wds-day2]
+
+   </td>
   <tr>
    <td>2023-11-07
    <td>Tuesday
@@ -790,6 +798,9 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 [Release Engineering team]: https://github.com/OpenINF/wg-release-engineering
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
+[Web Directions Summit]: https://webdirections.org/summit
+[wds-day1]: https://webdirections.org/summit/schedule.php#day1
+[wds-day2]: https://webdirections.org/summit/schedule.php#day2
 
 <!-- Readme template links -->
 
