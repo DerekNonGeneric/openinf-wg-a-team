@@ -569,7 +569,7 @@ Character and Script Encoding Virtual Open House[\*][3]
    <td>A-Team Working Session
   <tr>
    <td>2023-10-25
-   <td>Thursday
+   <td>Wednesday
    <td>03:00 PM PDT
    <td>
 
@@ -578,7 +578,7 @@ Character and Script Encoding Virtual Open House[\*][3]
    </td>
   <tr>
    <td>2023-10-26
-   <td>Friday
+   <td>Thursday
    <td>03:00 PM PDT
    <td>
 
