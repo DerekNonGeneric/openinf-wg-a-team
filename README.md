@@ -543,12 +543,12 @@ ICU4X Virtual Open House[\*][3]
    <td>2023-10-12
    <td>Thursday
    <td>01:00 AM PDT
-   <td><a href="https://eurorust.eu/2023">EuroRust 2023</a> &mdash; Day 1
+   <td><a href="https://eurorust.eu/2023">EuroRust 2023</a> &mdash; <a href="https://eurorust.eu/2023/schedule/day/1">Day 1</a>
   <tr>
    <td>2023-10-13
    <td>Friday
    <td>01:00 AM PDT
-   <td><a href="https://eurorust.eu/2023">EuroRust 2023</a> &mdash; Day 2
+   <td><a href="https://eurorust.eu/2023">EuroRust 2023</a> &mdash; <a href="https://eurorust.eu/2023/schedule/day/2">Day 2</a>
   <tr>
    <td>2023-10-17
    <td>Tuesday
