@@ -421,52 +421,193 @@ All are welcome; please join us!
 
 </summary>
 
-<div align="center"><figure aria-details="tbl-desc">
+<div width="100%" align="center">
 
-<figcaption><em><strong>Table 3.</strong> Notable events since The New Age of AI</em></figcaption><br /><br />
+<figure aria-details="tbl-desc">
 
-| Date       | Day of Week | Time                       | Event Name                                                       |
-| ---------- | ----------- | -------------------------- | :--------------------------------------------------------------- |
-| 2023-02-14 | Tuesday     | 12:00 PM PST               | The New Age of AI: A Convo with Google DeepMind (formerly Brain) |
-| 2023-02-28 | Tuesday     | 12:00 PM PST               |                                                                  |
-| 2023-03-07 | Tuesday     | 12:00 PM PST               |                                                                  |
-| 2023-03-21 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-03-28 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-04-04 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-04-18 | Tuesday     | 12:00 PM PDT               | A-Team Fortnightly Team Meeting                                  |
-| 2023-04-19 | Wednesday   | 12:00 PM PDT               | ICU4X Virtual Open House[\*][3]                                  |
-| 2023-05-02 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-05-16 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-05-30 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-06-13 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-06-27 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-07-11 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-07-25 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-08-08 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-08-22 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-09-05 | Tuesday     | 12:00 PM PDT               |                                                                  |
-| 2023-09-19 | Tuesday     | 12:00 PM PDT               | A-Team Fortnightly Team Meeting                                  |
-| 2023-10-03 | Tuesday     | 05:00 AM PDT               | A-Team Fortnightly Team Meeting                                  |
-| 2023-10-17 | Tuesday     | 11:00 AM PDT[\*][1][\*][2] | Character and Script Encoding Virtual Open House[\*][3]          |
-| 2023-10-17 | Tuesday     | 12:00 PM PDT               | A-Team Working Session                                           |
-| 2023-10-26 | Thursday    | TBD                        | Web Directions Summit                                            |
-| 2023-10-27 | Friday      | TBD                        | Web Directions Summit                                            |
-| 2023-11-07 | Tuesday     | 12:00 PM PST               | Unicode Technology Workshop (UTW) &mdash; Day 1 [\*][3][†][4]    |
-| 2023-11-08 | Wednesday   | 12:00 PM PST               | Unicode Technology Workshop (UTW) &mdash; Day 2 [\*][3][†][4]    |
-| 2023-11-21 | Tuesday     | 05:00 AM PST               | A-Team Fortnightly Team Meeting                                  |
-| 2023-12-05 | Tuesday     | 05:00 AM PST               | A-Team Fortnightly Team Meeting                                  |
-| 2023-12-19 | Tuesday     | 05:00 AM PST               | A-Team Fortnightly Team Meeting                                  |
+<br /><br />
+
+<table>
+ <thead align="left">
+  <tr>
+   <th width="100px">Date
+   <th width="100px">Day of Week
+   <th width="150px">Time
+   <th width="650px">Event Name
+ <tbody align="left">
+  <tr>
+   <td>2023-02-14
+   <td>Tuesday
+   <td>12:00 PM PST
+   <td>The New Age of AI: A Convo with Google DeepMind (formerly Brain)
+  <tr>
+   <td>2023-02-28
+   <td>Tuesday
+   <td>12:00 PM PST
+   <td>
+  <tr>
+   <td>2023-03-07
+   <td>Tuesday
+   <td>12:00 PM PST
+   <td>
+  <tr>
+   <td>2023-03-21
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-03-28
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-04-04
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-04-18
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>A-Team Fortnightly Team Meeting
+  <tr>
+   <td>2023-04-19
+   <td>Wednesday
+   <td>12:00 PM PDT
+   <td>
+
+ICU4X Virtual Open House[\*][3]
+
+   </td>
+  <tr>
+   <td>2023-05-02
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-05-16
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-05-30
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-06-13
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-06-27
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-07-11
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-07-25
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-08-08
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-08-22
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-09-05
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>
+  <tr>
+   <td>2023-09-19
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>A-Team Fortnightly Team Meeting
+  <tr>
+   <td>2023-10-03
+   <td>Tuesday
+   <td>05:00 AM PDT
+   <td>A-Team Fortnightly Team Meeting
+  <tr>
+   <td>2023-10-17
+   <td>Tuesday
+   <td>
+
+11:00 AM PDT[\*][1][\*][2]
+
+   </td>
+   <td>
+
+Character and Script Encoding Virtual Open House[\*][3]
+
+   </td>
+  <tr>
+   <td>2023-10-17
+   <td>Tuesday
+   <td>12:00 PM PDT
+   <td>A-Team Working Session
+  <tr>
+   <td>2023-10-26
+   <td>Thursday
+   <td>TBD
+   <td>Web Directions Summit
+  <tr>
+   <td>2023-10-27
+   <td>Friday
+   <td>TBD
+   <td>Web Directions Summit
+  <tr>
+   <td>2023-11-07
+   <td>Tuesday
+   <td>12:00 PM PST
+   <td>
+
+Unicode Technology Workshop (UTW) &mdash; Day 1 [\*][3][†][4]
+
+   </td>
+  <tr>
+   <td>2023-11-08
+   <td>Wednesday
+   <td>12:00 PM PST
+   <td>
+
+Unicode Technology Workshop (UTW) &mdash; Day 2 [\*][3][†][4]
+
+   </td>
+  <tr>
+   <td>2023-11-21
+   <td>Tuesday
+   <td>05:00 AM PST
+   <td>A-Team Fortnightly Team Meeting
+  <tr>
+   <td>2023-12-05
+   <td>Tuesday
+   <td>05:00 AM PST
+   <td>A-Team Fortnightly Team Meeting
+  <tr>
+   <td>2023-12-19
+   <td>Tuesday
+   <td>05:00 AM PST
+   <td>A-Team Fortnightly Team Meeting
+</table>
+
+<figcaption id="tbl-desc">
+  <strong>Table 3: notable events since The New Age of AI.</strong> Missing
+  event names are owing to the too-short prior notice time.
+</figcaption>
 
 </figure>
-
-<details id="tbl-desc">
-  <summary>Description</summary>
-  <span>
-    The table contains dates &amp; timings, expressed in the U.S. Pacific Time,
-    while observing daylight savings time, for A-Team events since being
-    re-imagined for our New Age of AI.
-  </span>
-</details>
 
 <br /><br />
 
