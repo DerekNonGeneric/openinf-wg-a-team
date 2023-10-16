@@ -594,8 +594,22 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
 
 [Web Directions Summit ⧉][wds] &mdash; [Day 2 ⧉][wds_day2]
 
-   </td>
-  <tr>
+   <td>
+<tr>
+ <td>2023-10-30
+ <td>Monday
+ <td>
+   
+5am–6am PDT [⏳⧉][ocaml_fn-comm_oct30-time]
+
+ </td>
+ <td>OCaml.org Community Meeting 🐫
+<tr>
+ <td>2023-10-31
+ <td>Tuesday
+ <td>TBD
+ <td>Halloween 🎃
+<tr>
    <td>2023-11-07
    <td>Tuesday
    <td>12pm PST
@@ -769,6 +783,8 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 [wds]: https://webdirections.org/summit
 [wds_day1]: https://webdirections.org/summit/schedule.php#day1
 [wds_day2]: https://webdirections.org/summit/schedule.php#day2
+
+[ocaml_fn-comm_oct30-time]: https://www.wolframalpha.com/input?i=1PM+CEST%2C+Oct+30%2C+2023+in+local+time
 
 [3]: ## "Hosted by Unicode"
 [4]: ## "Hosted at Google"
