@@ -438,42 +438,42 @@ All are welcome; please join us!
   <tr>
    <td>2023-02-14
    <td>Tuesday
-   <td>12:00 PM PST
+   <td>12pm PST
    <td>The New Age of AI: A Convo with Google DeepMind (formerly Brain)
   <tr>
    <td>2023-02-28
    <td>Tuesday
-   <td>12:00 PM PST
+   <td>12pm PST
    <td>
   <tr>
    <td>2023-03-07
    <td>Tuesday
-   <td>12:00 PM PST
+   <td>12pm PST
    <td>
   <tr>
    <td>2023-03-21
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-03-28
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-04-04
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-04-18
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>A-Team Fortnightly Team Meeting
   <tr>
    <td>2023-04-19
    <td>Wednesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
 
 ICU4X Virtual Open House[\*][3]
@@ -482,79 +482,79 @@ ICU4X Virtual Open House[\*][3]
   <tr>
    <td>2023-05-02
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-05-16
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-05-30
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-06-13
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-06-27
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-07-11
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-07-25
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-08-08
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-08-22
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-09-05
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>
   <tr>
    <td>2023-09-19
    <td>Tuesday
-   <td>12:00 PM PDT
+   <td>12pm PDT
    <td>A-Team Fortnightly Team Meeting
   <tr>
    <td>2023-10-03
    <td>Tuesday
-   <td>05:00 AM PDT
+   <td>5am PDT
    <td>A-Team Fortnightly Team Meeting
   <tr>
    <td>2023-10-12
    <td>Thursday
-   <td>01:00 AM PDT
+   <td>1am PDT
    <td><a href="https://eurorust.eu/2023">EuroRust 2023</a> &mdash; <a href="https://eurorust.eu/2023/schedule/day/1">Day 1</a>
   <tr>
    <td>2023-10-13
    <td>Friday
-   <td>01:00 AM PDT
+   <td>1am PDT
    <td><a href="https://eurorust.eu/2023">EuroRust 2023</a> &mdash; <a href="https://eurorust.eu/2023/schedule/day/2">Day 2</a>
   <tr>
    <td rowspan="2">2023-10-17
    <td rowspan="2">Tuesday
    <td>
 
-11:00 AM–noon PDT [⏳⧉][script_open_house-time]
+11am–noon PDT [⏳⧉][script_open_house-time]
 
    </td>
    <td>
@@ -566,14 +566,14 @@ ICU4X Virtual Open House[\*][3]
 
    <td>
 
-noon–01:00 PM PDT [⏳⧉][script_working_session-time]
+noon–1pm PDT [⏳⧉][script_working_session-time]
 
    </td>
    <td>A-Team Working Session
   <tr>
    <td>2023-10-25
    <td>Wednesday
-   <td>03:00 PM PDT
+   <td>3pm PDT
    <td>
 
 [Web Directions Summit][] &mdash; [Day 1][wds-day1]
@@ -582,7 +582,7 @@ noon–01:00 PM PDT [⏳⧉][script_working_session-time]
   <tr>
    <td>2023-10-26
    <td>Thursday
-   <td>03:00 PM PDT
+   <td>3pm PDT
    <td>
 
 [Web Directions Summit][] &mdash; [Day 2][wds-day2]
@@ -591,7 +591,7 @@ noon–01:00 PM PDT [⏳⧉][script_working_session-time]
   <tr>
    <td>2023-11-07
    <td>Tuesday
-   <td>12:00 PM PST
+   <td>12pm PST
    <td>
 
 Unicode Technology Workshop (UTW) &mdash; Day 1 [\*][3][†][4]
@@ -600,7 +600,7 @@ Unicode Technology Workshop (UTW) &mdash; Day 1 [\*][3][†][4]
   <tr>
    <td>2023-11-08
    <td>Wednesday
-   <td>12:00 PM PST
+   <td>12pm PST
    <td>
 
 Unicode Technology Workshop (UTW) &mdash; Day 2 [\*][3][†][4]
@@ -609,17 +609,17 @@ Unicode Technology Workshop (UTW) &mdash; Day 2 [\*][3][†][4]
   <tr>
    <td>2023-11-21
    <td>Tuesday
-   <td>05:00 AM PST
+   <td>5am PST
    <td>A-Team Fortnightly Team Meeting
   <tr>
    <td>2023-12-05
    <td>Tuesday
-   <td>05:00 AM PST
+   <td>5am PST
    <td>A-Team Fortnightly Team Meeting
   <tr>
    <td>2023-12-19
    <td>Tuesday
-   <td>05:00 AM PST
+   <td>5am PST
    <td>A-Team Fortnightly Team Meeting
 </table>
 
