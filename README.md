@@ -550,22 +550,25 @@ ICU4X Virtual Open House[\*][3]
    <td>01:00 AM PDT
    <td><a href="https://eurorust.eu/2023">EuroRust 2023</a> &mdash; <a href="https://eurorust.eu/2023/schedule/day/2">Day 2</a>
   <tr>
-   <td>2023-10-17
-   <td>Tuesday
+   <td rowspan="2">2023-10-17
+   <td rowspan="2">Tuesday
    <td>
 
-11:00 AM–12:00 PM PDT[\*][1][\*][2]
+11:00 AM–noon PDT [⏳⧉][script_open_house-time]
 
    </td>
    <td>
 
-[Open House on Character and Script Encoding][][\*][3]
+[Open House on Character and Script Encoding][script_open_house-link]
 
    </td>
   <tr>
-   <td>2023-10-17
-   <td>Tuesday
-   <td>12:00 PM PDT
+
+   <td>
+
+noon–01:00 PM PDT [⏳⧉][script_working_session-time]
+
+   </td>
    <td>A-Team Working Session
   <tr>
    <td>2023-10-25
@@ -748,12 +751,14 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 
 <!-- Events -->
 
-[1]: https://www.wolframalpha.com/input?i=11AM+PST%2C+Oct+17%2C+2023+in+local+time "Event time in your timezone (Wolfram Alpha)"
-[2]: https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Open+House+on+Script+and+Character+Encoding+2023-11-17&iso=20231017T11&p1=900&ah=1 "Event time in your timezone"
+[script_open_house-link]: https://www.unicode.org/events/#script_open_house
+[script_open_house-time]: https://www.wolframalpha.com/input?i=11AM+PDT%2C+Oct+17%2C+2023+in+local+time "Open House on Character and Script Encoding in your timezone (Wolfram Alpha)"
+[script_working_session-time]: https://www.wolframalpha.com/input?i=12PM+PDT%2C+Oct+17%2C+2023+in+local+time "Working Session on Character and Script Encoding in your timezone (Wolfram Alpha)"
+
 [3]: ## "Hosted by Unicode"
 [4]: ## "Hosted at Google"
 
-[Open House on Character and Script Encoding]: https://www.unicode.org/events/#script_open_house
+
 
 <!-- Handles -->
 
