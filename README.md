@@ -543,12 +543,20 @@ ICU4X Virtual Open House[\*][3]
    <td>2023-10-12
    <td>Thursday
    <td>1am PDT
-   <td><a href="https://eurorust.eu/2023">EuroRust 2023</a> &mdash; <a href="https://eurorust.eu/2023/schedule/day/1">Day 1</a>
+   <td>
+
+[EuroRust 2023 ⧉][euro_rust23] &mdash; [Day 1 ⧉][euro_rust23_day1]
+
+   </td>
   <tr>
    <td>2023-10-13
    <td>Friday
    <td>1am PDT
-   <td><a href="https://eurorust.eu/2023">EuroRust 2023</a> &mdash; <a href="https://eurorust.eu/2023/schedule/day/2">Day 2</a>
+   <td>
+
+[EuroRust 2023 ⧉][euro_rust23] &mdash; [Day 2 ⧉][euro_rust23_day2]
+
+   </td>
   <tr>
    <td rowspan="2">2023-10-17
    <td rowspan="2">Tuesday
@@ -559,11 +567,10 @@ ICU4X Virtual Open House[\*][3]
    </td>
    <td>
 
-[Open House on Character and Script Encoding][script_open_house-link]
+[Open House on Character and Script Encoding ⧉][script_open_house]
 
    </td>
   <tr>
-
    <td>
 
 noon–1pm PDT [⏳⧉][script_working_session-time]
@@ -576,7 +583,7 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
    <td>3pm PDT
    <td>
 
-[Web Directions Summit][] &mdash; [Day 1][wds-day1]
+[Web Directions Summit ⧉][wds] &mdash; [Day 1 ⧉][wds_day1]
 
    </td>
   <tr>
@@ -585,7 +592,7 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
    <td>3pm PDT
    <td>
 
-[Web Directions Summit][] &mdash; [Day 2][wds-day2]
+[Web Directions Summit ⧉][wds] &mdash; [Day 2 ⧉][wds_day2]
 
    </td>
   <tr>
@@ -751,14 +758,20 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 
 <!-- Events -->
 
-[script_open_house-link]: https://www.unicode.org/events/#script_open_house
+[euro_rust23]: https://eurorust.eu/2023
+[euro_rust23_day1]: https://eurorust.eu/2023/schedule/day/1
+[euro_rust23_day2]: https://eurorust.eu/2023/schedule/day/2
+
+[script_open_house]: https://www.unicode.org/events/#script_open_house
 [script_open_house-time]: https://www.wolframalpha.com/input?i=11AM+PDT%2C+Oct+17%2C+2023+in+local+time "Open House on Character and Script Encoding in your timezone (Wolfram Alpha)"
 [script_working_session-time]: https://www.wolframalpha.com/input?i=12PM+PDT%2C+Oct+17%2C+2023+in+local+time "Working Session on Character and Script Encoding in your timezone (Wolfram Alpha)"
 
+[wds]: https://webdirections.org/summit
+[wds_day1]: https://webdirections.org/summit/schedule.php#day1
+[wds_day2]: https://webdirections.org/summit/schedule.php#day2
+
 [3]: ## "Hosted by Unicode"
 [4]: ## "Hosted at Google"
-
-
 
 <!-- Handles -->
 
@@ -805,9 +818,6 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 [Release Engineering team]: https://github.com/OpenINF/wg-release-engineering
 [skills and areas]:
   https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
-[Web Directions Summit]: https://webdirections.org/summit
-[wds-day1]: https://webdirections.org/summit/schedule.php#day1
-[wds-day2]: https://webdirections.org/summit/schedule.php#day2
 
 <!-- Readme template links -->
 
