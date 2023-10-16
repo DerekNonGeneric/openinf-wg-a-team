@@ -554,12 +554,12 @@ ICU4X Virtual Open House[\*][3]
    <td>Tuesday
    <td>
 
-11:00 AM PDT[\*][1][\*][2]
+11:00 AM–12:00 PM PDT[\*][1][\*][2]
 
    </td>
    <td>
 
-Character and Script Encoding Virtual Open House[\*][3]
+[Open House on Character and Script Encoding][][\*][3]
 
    </td>
   <tr>
@@ -752,6 +752,8 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 [2]: https://www.timeanddate.com/worldclock/fixedtime.html?msg=Virtual+Open+House+on+Script+and+Character+Encoding+2023-11-17&iso=20231017T11&p1=900&ah=1 "Event time in your timezone"
 [3]: ## "Hosted by Unicode"
 [4]: ## "Hosted at Google"
+
+[Open House on Character and Script Encoding]: https://www.unicode.org/events/#script_open_house
 
 <!-- Handles -->
 
