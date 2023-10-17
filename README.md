@@ -31,6 +31,29 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 </div>
 
+<br />
+
+<details open>
+<summary>
+<strong>📖 Table of Contents</strong>
+</summary>
+
+<br />
+
+- [Ahoy!](#ahoy)
+- [Our Mission](#our-mission)
+- [Connecting with the Team](#connecting-with-the-a-team)
+- [A-Team Collaborators](#a-team-collaborators)
+- [What We Work On](#what-we-work-on)
+- [What We Do Not Work On](#what-we-do-not-work-on)
+- [Meetings](#meetings)
+- [Goals and Projects](#goals-and-projects)
+- [Getting Involved](#getting-involved)
+- [Contributing](#contributing)
+- [License](#license)
+
+</details>
+
 <br /><br />
 
 ---
@@ -106,28 +129,6 @@ $$
 </figure></div>
 
 </section>
-
-<br /><br />
-
----
-
-<br />
-
-### Table of Contents
-
-<br />
-
-- [Ahoy!](#ahoy)
-- [Our Mission](#our-mission)
-- [Connecting with the Team](#connecting-with-the-a-team)
-- [A-Team Collaborators](#a-team-collaborators)
-- [What We Work On](#what-we-work-on)
-- [What We Do Not Work On](#what-we-do-not-work-on)
-- [Meetings](#meetings)
-- [Goals and Projects](#goals-and-projects)
-- [Getting Involved](#getting-involved)
-- [Contributing](#contributing)
-- [License](#license)
 
 <br /><br />
 
