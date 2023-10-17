@@ -594,7 +594,7 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
 
 [Web Directions Summit ⧉][wds] &mdash; [Day 2 ⧉][wds_day2]
 
-   <td>
+   </td>
 <tr>
  <td>2023-10-30
  <td>Monday
