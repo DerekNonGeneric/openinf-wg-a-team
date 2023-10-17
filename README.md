@@ -568,7 +568,7 @@ ICU4X Virtual Open House[\*][3]
    </td>
    <td>
 
-[Open House on Character and Script Encoding ⧉][script_open_house]
+[Open House on Character and Script Encoding ⧉][script_open_house][\*][3]
 
    </td>
   <tr>
