@@ -40,14 +40,18 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
+- [On the Nature of our Work](#on-the-nature-of-our-work)
 - [Ahoy!](#ahoy)
 - [Our Mission](#our-mission)
 - [Connecting with the Team](#connecting-with-the-a-team)
 - [A-Team Collaborators](#a-team-collaborators)
+  - [Persons Roster](#persons-roster)
+  - [AI Non-Persons Roster](#ai-non-persons-roster)
 - [What We Work On](#what-we-work-on)
 - [What We Do Not Work On](#what-we-do-not-work-on)
 - [Meetings](#meetings)
-- [Goals and Projects](#goals-and-projects)
+  - [Team Itinerary](#team-itinerary)
+- [Goals and Projects](#goals-n-projects)
 - [Getting Involved](#getting-involved)
 - [Contributing](#contributing)
 - [License](#license)
@@ -60,9 +64,9 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
-<section id="on-the-nature-of-our-teamwork">
+<section id="on-the-nature-of-our-work">
 
-### On the Nature of Our Team’s Work
+### On the Nature of Our Work
 
 <br />
 
