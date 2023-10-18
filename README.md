@@ -40,7 +40,7 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
-- [On the Nature of our Work](#on-the-nature-of-our-work)
+- [On the Nature of Our Work](#on-the-nature-of-our-work)
 - [Ahoy!](#ahoy)
 - [Our Mission](#our-mission)
 - [Connecting with the Team](#connecting-with-the-a-team)
@@ -64,9 +64,11 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
-<section id="on-the-nature-of-our-work">
+<section id="on-the-nature-of-our-work"><details><summary>
 
-### On the Nature of Our Work
+### ↕️ On the Nature of Our Work
+
+</summary>
 
 <br />
 
@@ -132,7 +134,7 @@ $$
 
 </figure></div>
 
-</section>
+</details></section>
 
 <br /><br />
 
