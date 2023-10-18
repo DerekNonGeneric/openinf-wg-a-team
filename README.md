@@ -243,25 +243,25 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
  <tbody align="left">
   <tr>
    <td>Derek Lewis
-   <td>OpenINF&nbsp;×&nbsp;AMPHTML
+   <td>OpenINF&nbsp;×&nbsp;FontVault&nbsp;&amp;&nbsp;AMPHTML
    <td>Development
    <td><em>highly&nbsp;<abbr title="participatory">particip.</abbr></em>
    <td><a href="https://github.com/DerekNonGeneric">@DerekNonGeneric</a>
   <tr>
-   <td><em>Available</em>
-   <td>OpenINF
+   <td><em>Fillable</em>
+   <td>OpenINF&nbsp;×&nbsp;FontVault&nbsp;(<em><abbr title="optionally">opt.</abbr>,&nbsp;but&nbsp;<abbr title="preferred">pref.</abbr></em>)
    <td>Development
    <td><!-- Q4 status -->
    <td><!-- gh handle -->
   <tr>
    <td>Milena Mitrovic
-   <td>OpenINF
+   <td>OpenINF&nbsp;×&nbsp;FontVault
    <td>Design / UI / UX
    <td><em><abbr title="limited">ltd.</abbr>&nbsp;<abbr title="availability">avail.</abbr></em>
    <td><a href="https://github.com/emmitrovic">@EmMitrovic</a>
   <tr>
-   <td><em>Available</em>
-   <td>OpenINF
+   <td><em>Fillable</em>
+   <td>OpenINF&nbsp;×&nbsp;FontVault&nbsp;(<em><abbr title="optionally">opt.</abbr>,&nbsp;but&nbsp;<abbr title="preferred">pref.</abbr></em>)
    <td>Design / UI / UX
    <td><!-- Q4 status -->
    <td><!-- gh handle -->
