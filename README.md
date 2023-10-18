@@ -584,7 +584,7 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
    <td>3pm PDT
    <td>
 
-[Web Directions Summit ⧉][wds] &mdash; [Day 1 ⧉][wds_day1]&nbsp;<sup>[\‡][3]</sup>
+[Web Directions Summit ⧉][wds] &mdash; [Day 1 ⧉][wds_day1]&nbsp;<sup>[‡][3]</sup>
 
    </td>
   <tr>
@@ -593,7 +593,7 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
    <td>3pm PDT
    <td>
 
-[Web Directions Summit ⧉][wds] &mdash; [Day 2 ⧉][wds_day2]&nbsp;<sup>[\‡][3]</sup>
+[Web Directions Summit ⧉][wds] &mdash; [Day 2 ⧉][wds_day2]&nbsp;<sup>[‡][3]</sup>
 
    </td>
 <tr>
@@ -680,14 +680,14 @@ Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbs
 [‡][3]
 
 </dt>
-<dd>Hosted Down Under</dd>
+<dd>Hosted Down Under (Australia)</dd>
 
 <dt>
   
 [#][4]
 
 </dt>
-<dd>Unhosted</dd>
+<dd>Unhosted (looking for host)</dd>
 
 </dl>
 
