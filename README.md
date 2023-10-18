@@ -239,7 +239,7 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
    <th width="200px">GitHub Handle
  <tbody align="left">
   <tr>
-   <td>Derek Lewis
+   <td>Derek Lewis (highly participatory)
    <td>AMPHTML, OpenINF, et al.
    <td>Development
    <td><a href="https://github.com/DerekNonGeneric">@DerekNonGeneric</a>
@@ -259,12 +259,12 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
    <td>Design / UI / UX
    <td><a href="https://github.com/emmitrovic">@EmMitrovic</a>
   <tr>
-   <td>Jorge Bucaran
+   <td>Jorge Bucaran (highly participatory)
    <td>Hyperapp, OpenINF, et al.
    <td>Quality Assurance
    <td><a href="https://github.com/jorgebucaran">@jorgebucaran</a>
   <tr>
-   <td>Sora Morimoto
+   <td>Sora Morimoto (w/ min avail.)
    <td>TC39, OCaml, OpenINF, et al.
    <td>Product Management
    <td><a href="https://github.com/smorimoto">@smorimoto</a>
