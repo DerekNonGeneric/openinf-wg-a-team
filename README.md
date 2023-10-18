@@ -256,8 +256,8 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
   <tr>
    <td>Milena Mitrovic
    <td>OpenINF
-   <td>Design / UI / UX
-   <td><a href="https://github.com/emmitrovic">@emmitrovic</a>
+   <td>Design / UI / UX (avail. extra ltd.)
+   <td><a href="https://github.com/emmitrovic">@EmMitrovic</a>
   <tr>
    <td>Jorge Bucaran
    <td>Hyperapp, OpenINF, et al.
