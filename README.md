@@ -680,7 +680,7 @@ Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbs
 [‡][3]
 
 </dt>
-<dd>Hosted Down Under (Oceania)</dd>
+<dd>Hosted Down Under (Australia &amp; New Zealand)</dd>
 
 <dt>
   
