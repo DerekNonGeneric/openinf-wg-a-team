@@ -655,11 +655,11 @@ Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbs
 
 <br /><br />
 
-<div align="left"><details align="left">
+<div align="left"><details>
 
 <summary><strong>🗝️ Table 3 Symbol Key</strong></summary>
 
-<dl align="left">
+<dl>
 
 <dt>
 
@@ -680,7 +680,7 @@ Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbs
 [‡][3]
 
 </dt>
-<dd>Hosted Down Under (Australia)</dd>
+<dd>Hosted Down Under (Oceania)</dd>
 
 <dt>
   
@@ -694,8 +694,6 @@ Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbs
 </details>
 
 </div></details></div>
-
-<br /><br />
 
 </section> <!-- END #team-itinerary -->
 
