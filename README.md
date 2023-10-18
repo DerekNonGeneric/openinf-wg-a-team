@@ -235,41 +235,54 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
 <table>
  <thead align="left">
   <tr>
-   <th width="250px">Name
-   <th width="350px">Organization(s)
-   <th width="200px">Engineering Role
+   <th width="225px">Name
+   <th width="300px">Organization(s)
+   <th width="175px">Engineering Role
+   <th width="100px">Status
    <th width="200px">GitHub Handle
  <tbody align="left">
   <tr>
-   <td>Derek Lewis (highly participatory)
+   <td>Derek Lewis
    <td>AMPHTML, OpenINF, et al.
    <td>Development
+   <td><em>highly&nbsp;<abbr title="participatory">particip.</abbr></em>
    <td><a href="https://github.com/DerekNonGeneric">@DerekNonGeneric</a>
   <tr>
    <td><em>Available</em>
-   <td>
+   <td>OpenINF
    <td>Development
-   <td>
+   <td><!-- Q4 status -->
+   <td><!-- gh handle -->
   <tr>
-   <td><em>Available</em>
-   <td>
-   <td>Development
-   <td>
-  <tr>
-   <td>Milena Mitrovic (w/ ltd. avail.)
+   <td>Milena Mitrovic
    <td>OpenINF
    <td>Design / UI / UX
+   <td><em><abbr title="limited">ltd.</abbr>&nbsp;<abbr title="availability">avail.</abbr></em>
    <td><a href="https://github.com/emmitrovic">@EmMitrovic</a>
   <tr>
-   <td>Jorge Bucaran (highly participatory)
+   <td><em>Available</em>
+   <td>OpenINF
+   <td>Design / UI / UX
+   <td><!-- Q4 status -->
+   <td><!-- gh handle -->
+  <tr>
+   <td>Jorge Bucaran
    <td>Hyperapp, OpenINF, et al.
-   <td>Quality Assurance
+   <td>Quality&nbsp;Assurance&nbsp;(QA)
+   <td><em>highly&nbsp;<abbr title="participatory">particip.</abbr></em>
    <td><a href="https://github.com/jorgebucaran">@jorgebucaran</a>
   <tr>
-   <td>Sora Morimoto (w/ min avail.)
+   <td>Sora Morimoto
    <td>TC39, OCaml, OpenINF, et al.
-   <td>Product Management
+   <td><abbr title="product">Prod.</abbr>&nbsp;<abbr title="management">Mgmt.</abbr>&nbsp;(PM)
+   <td><em><abbr title="minimal">min.</abbr>&nbsp;<abbr title="availability">avail.</abbr></em>
    <td><a href="https://github.com/smorimoto">@smorimoto</a>
+  <tr>
+   <td><em>Available</em>
+   <td>OpenINF
+   <td><abbr title="product">Prod.</abbr>&nbsp;Ownership&nbsp;(PO)
+   <td><!-- Q4 status -->
+   <td><!-- gh handle -->
 </table>
 
 </div>
