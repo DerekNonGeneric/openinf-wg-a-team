@@ -477,7 +477,7 @@ All are welcome; please join us!
    <td>12pm PDT
    <td>
 
-ICU4X Virtual Open House[\*][3]
+ICU4X Virtual Open House&nbsp;<sup>[\*][1]</sup>
 
    </td>
   <tr>
@@ -568,7 +568,7 @@ ICU4X Virtual Open House[\*][3]
    </td>
    <td>
 
-[Open House on Character and Script Encoding ⧉][script_open_house][\*][3]
+[Open House on Character and Script Encoding ⧉][script_open_house]&nbsp;<sup>[\*][1]</sup>
 
    </td>
   <tr>
@@ -584,7 +584,7 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
    <td>3pm PDT
    <td>
 
-[Web Directions Summit ⧉][wds] &mdash; [Day 1 ⧉][wds_day1]
+[Web Directions Summit ⧉][wds] &mdash; [Day 1 ⧉][wds_day1]&nbsp;<sup>[\‡][3]</sup>
 
    </td>
   <tr>
@@ -593,7 +593,7 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
    <td>3pm PDT
    <td>
 
-[Web Directions Summit ⧉][wds] &mdash; [Day 2 ⧉][wds_day2]
+[Web Directions Summit ⧉][wds] &mdash; [Day 2 ⧉][wds_day2]&nbsp;<sup>[\‡][3]</sup>
 
    </td>
 <tr>
@@ -616,7 +616,7 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
    <td>12pm PST
    <td>
 
-Unicode Technology Workshop (UTW) &mdash; Day 1 [\*][3][†][4]
+Unicode Technology Workshop (UTW) &mdash; Day&nbsp;1&nbsp;<sup>[\*][1]</sup>&nbsp;<sup>[†][2]</sup>
 
    </td>
   <tr>
@@ -625,7 +625,7 @@ Unicode Technology Workshop (UTW) &mdash; Day 1 [\*][3][†][4]
    <td>12pm PST
    <td>
 
-Unicode Technology Workshop (UTW) &mdash; Day 2 [\*][3][†][4]
+Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbsp;<sup>[†][2]</sup>
 
    </td>
   <tr>
@@ -646,15 +646,58 @@ Unicode Technology Workshop (UTW) &mdash; Day 2 [\*][3][†][4]
 </table>
 
 <figcaption id="tbl-desc">
-  <strong>Table 3: notable events since The New Age of AI.</strong> Missing
-  event names are owing to the too-short prior notice time.
+  <span><strong>Table 3: notable events since The New Age of AI.</strong> Missing
+  event names are owing to the too-short prior notice time.</span>
+  
 </figcaption>
 
 </figure>
 
 <br /><br />
 
-</div></details></section> <!-- END #team-itinerary -->
+<div align="left"><details align="left">
+
+<summary><strong>🗝️ Table 3 Symbol Key</strong></summary>
+
+<dl align="left">
+
+<dt>
+
+[\*][1]
+
+</dt>
+<dd>Hosted by Unicode</dd>
+
+<dt>
+
+[†][2]
+
+</dt>
+<dd>Hosted at Google</dd>
+
+<dt>
+  
+[‡][3]
+
+</dt>
+<dd>Hosted Down Under</dd>
+
+<dt>
+  
+[#][4]
+
+</dt>
+<dd>Unhosted</dd>
+
+</dl>
+
+</details>
+
+</div></details></div>
+
+<br /><br />
+
+</section> <!-- END #team-itinerary -->
 
 </section> <!-- END #meetings -->
 
@@ -787,8 +830,10 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 
 [ocaml_fn-comm_oct30-time]: https://www.wolframalpha.com/input?i=1PM+CEST%2C+Oct+30%2C+2023+in+local+time
 
-[3]: ## "Hosted by Unicode"
-[4]: ## "Hosted at Google"
+[1]: ## "Hosted by Unicode"
+[2]: ## "Hosted at Google"
+[3]: ## "Hosted Down Under"
+[4]: ## "Unhosted"
 
 <!-- Handles -->
 
