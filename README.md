@@ -243,7 +243,7 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
  <tbody align="left">
   <tr>
    <td>Derek Lewis
-   <td>AMPHTML, OpenINF, et al.
+   <td>OpenINF&nbsp;×&nbsp;AMPHTML
    <td>Development
    <td><em>highly&nbsp;<abbr title="participatory">particip.</abbr></em>
    <td><a href="https://github.com/DerekNonGeneric">@DerekNonGeneric</a>
@@ -267,13 +267,13 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
    <td><!-- gh handle -->
   <tr>
    <td>Jorge Bucaran
-   <td>Hyperapp, OpenINF, et al.
+   <td>OpenINF&nbsp;×&nbsp;Hyperapp
    <td>Quality&nbsp;Assurance&nbsp;(QA)
    <td><em>highly&nbsp;<abbr title="participatory">particip.</abbr></em>
    <td><a href="https://github.com/jorgebucaran">@jorgebucaran</a>
   <tr>
    <td>Sora Morimoto
-   <td>TC39, OCaml, OpenINF, et al.
+   <td>OpenINF&nbsp;×&nbsp;OCaml&nbsp;&amp;&nbsp;TC39
    <td><abbr title="product">Prod.</abbr>&nbsp;<abbr title="management">Mgmt.</abbr>&nbsp;(PM)
    <td><em><abbr title="minimal">min.</abbr>&nbsp;<abbr title="availability">avail.</abbr></em>
    <td><a href="https://github.com/smorimoto">@smorimoto</a>
