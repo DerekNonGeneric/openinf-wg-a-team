@@ -461,36 +461,6 @@ All are welcome; please join us!
    <td>12pm PST
    <td>The New Age of AI: A Convo with Google DeepMind (formerly Brain)
   <tr>
-   <td>2023-02-28
-   <td>Tuesday
-   <td>12pm PST
-   <td>
-  <tr>
-   <td>2023-03-07
-   <td>Tuesday
-   <td>12pm PST
-   <td>
-  <tr>
-   <td>2023-03-21
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-03-28
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-04-04
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-04-18
-   <td>Tuesday
-   <td>12pm PDT
-   <td>A-Team Fortnightly Team Meeting
-  <tr>
    <td>2023-04-19
    <td>Wednesday
    <td>12pm PDT
@@ -499,66 +469,6 @@ All are welcome; please join us!
 ICU4X Virtual Open House&nbsp;<sup>[\*][1]</sup>
 
    </td>
-  <tr>
-   <td>2023-05-02
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-05-16
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-05-30
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-06-13
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-06-27
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-07-11
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-07-25
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-08-08
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-08-22
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-09-05
-   <td>Tuesday
-   <td>12pm PDT
-   <td>
-  <tr>
-   <td>2023-09-19
-   <td>Tuesday
-   <td>12pm PDT
-   <td>A-Team Fortnightly Team Meeting
-  <tr>
-   <td>2023-10-03
-   <td>Tuesday
-   <td>5am PDT
-   <td>A-Team Fortnightly Team Meeting
   <tr>
    <td>2023-10-12
    <td>Thursday
@@ -651,17 +561,29 @@ Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbs
    <td>2023-11-21
    <td>Tuesday
    <td>5am PST
-   <td>A-Team Fortnightly Team Meeting
+   <td>
+
+A-Team Fortnightly Team&nbsp;Meeting&nbsp;<sup>[#][4]</sup>
+
+   </td>
   <tr>
    <td>2023-12-05
    <td>Tuesday
    <td>5am PST
-   <td>A-Team Fortnightly Team Meeting
+   <td>
+
+A-Team Fortnightly Team&nbsp;Meeting&nbsp;<sup>[#][4]</sup>
+
+   </td>
   <tr>
    <td>2023-12-19
    <td>Tuesday
    <td>5am PST
-   <td>A-Team Fortnightly Team Meeting
+   <td>
+
+A-Team Fortnightly Team&nbsp;Meeting&nbsp;<sup>[#][4]</sup>
+
+   </td>
 </table>
 
 <figcaption id="tbl-desc">
