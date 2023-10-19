@@ -242,46 +242,46 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
    <th width="200px">GitHub Handle
  <tbody align="left">
   <tr>
-   <td>Derek Lewis
+   <td>Derek&nbsp;Lewis
    <td>OpenINF&nbsp;×&nbsp;FontVault&nbsp;&amp;&nbsp;AMPHTML
    <td>Development
    <td><em>highly&nbsp;<abbr title="participatory">particip.</abbr></em>
    <td><a href="https://github.com/DerekNonGeneric">@DerekNonGeneric</a>
   <tr>
-   <td><em>Fillable</em>
+   <td><em>👻</em>
    <td>OpenINF&nbsp;×&nbsp;FontVault&nbsp;(<em><abbr title="optionally">opt.</abbr>,&nbsp;but&nbsp;<abbr title="preferred">pref.</abbr></em>)
    <td>Development
-   <td><em>👻</em><!-- Q4 status -->
+   <td><em>fillable&nbsp;(<strong>you?</strong>)</em><!-- Q4 status -->
    <td><em><a href="https://github.com/smorimoto">@ghost</a></em>
   <tr>
-   <td>Milena Mitrovic
+   <td>Milena&nbsp;Mitrovic
    <td>OpenINF&nbsp;×&nbsp;FontVault
    <td>Design / UI / UX
    <td><em><abbr title="limited">ltd.</abbr>&nbsp;<abbr title="availability">avail.</abbr></em>
    <td><a href="https://github.com/emmitrovic">@EmMitrovic</a>
   <tr>
-   <td><em>Fillable</em>
+   <td><em>👻</em>
    <td>OpenINF&nbsp;×&nbsp;FontVault&nbsp;(<em><abbr title="optionally">opt.</abbr>,&nbsp;but&nbsp;<abbr title="preferred">pref.</abbr></em>)
    <td>Design / UI / UX
-   <td><em>👻</em><!-- Q4 status -->
+   <td><em>fillable&nbsp;(<strong>you?</strong>)</em><!-- Q4 status -->
    <td><em><a href="https://github.com/smorimoto">@ghost</a></em>
   <tr>
-   <td>Jorge Bucaran
+   <td>Jorge&nbsp;Bucaran
    <td>OpenINF&nbsp;×&nbsp;Hyperapp
    <td>Quality&nbsp;Assurance&nbsp;(QA)
    <td><em>highly&nbsp;<abbr title="participatory">particip.</abbr></em>
    <td><a href="https://github.com/jorgebucaran">@jorgebucaran</a>
   <tr>
-   <td>Sora Morimoto
+   <td>Sora&nbsp;Morimoto
    <td>OpenINF&nbsp;×&nbsp;OCaml&nbsp;&amp;&nbsp;TC39
    <td><abbr title="product">Prod.</abbr>&nbsp;<abbr title="management">Mgmt.</abbr>&nbsp;(PM)
    <td><em><abbr title="minimal">min.</abbr>&nbsp;<abbr title="availability">avail.</abbr></em>
    <td><a href="https://github.com/smorimoto">@smorimoto</a>
   <tr>
-   <td><em>Fillable</em>
+   <td><em>👻</em>
    <td>OpenINF
    <td><abbr title="product">Prod.</abbr>&nbsp;Ownership&nbsp;(PO)
-   <td><em>👻</em><!-- Q4 status -->
+   <td><em>fillable&nbsp;(<strong>you?</strong>)</em><!-- Q4 status -->
    <td><em><a href="https://github.com/smorimoto">@ghost</a></em>
 </table>
 
