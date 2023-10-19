@@ -251,8 +251,8 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
    <td><em>Fillable</em>
    <td>OpenINF&nbsp;×&nbsp;FontVault&nbsp;(<em><abbr title="optionally">opt.</abbr>,&nbsp;but&nbsp;<abbr title="preferred">pref.</abbr></em>)
    <td>Development
-   <td><!-- Q4 status -->
-   <td><!-- gh handle -->
+   <td><em>👻</em><!-- Q4 status -->
+   <td><em><a href="https://github.com/smorimoto">@ghost</a></em>
   <tr>
    <td>Milena Mitrovic
    <td>OpenINF&nbsp;×&nbsp;FontVault
@@ -263,8 +263,8 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
    <td><em>Fillable</em>
    <td>OpenINF&nbsp;×&nbsp;FontVault&nbsp;(<em><abbr title="optionally">opt.</abbr>,&nbsp;but&nbsp;<abbr title="preferred">pref.</abbr></em>)
    <td>Design / UI / UX
-   <td><!-- Q4 status -->
-   <td><!-- gh handle -->
+   <td><em>👻</em><!-- Q4 status -->
+   <td><em><a href="https://github.com/smorimoto">@ghost</a></em>
   <tr>
    <td>Jorge Bucaran
    <td>OpenINF&nbsp;×&nbsp;Hyperapp
@@ -278,11 +278,11 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
    <td><em><abbr title="minimal">min.</abbr>&nbsp;<abbr title="availability">avail.</abbr></em>
    <td><a href="https://github.com/smorimoto">@smorimoto</a>
   <tr>
-   <td><em>Available</em>
+   <td><em>Fillable</em>
    <td>OpenINF
    <td><abbr title="product">Prod.</abbr>&nbsp;Ownership&nbsp;(PO)
-   <td><!-- Q4 status -->
-   <td><!-- gh handle -->
+   <td><em>👻</em><!-- Q4 status -->
+   <td><em><a href="https://github.com/smorimoto">@ghost</a></em>
 </table>
 
 </div>
