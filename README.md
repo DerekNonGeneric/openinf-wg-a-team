@@ -378,11 +378,8 @@ our Release Engineering team, the Mozilla Taskcluster team, and a few select
 owners in the Chromium project, respectively). However, we occasionally help
 with those projects as well.
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
-</picture><br>
-    
+
+> [!WARNING]
 We don’t write unit tests run in the test harnesses we own;
 developers are best suited for &mdash; and responsible &mdash; for that.
 
@@ -407,11 +404,8 @@ Every other Tuesday, we have a fortnightly meeting that lets out before noon U.S
 Pacific Time. We typically discuss status, and new projects, have demonstrations
 of the latest tools & features, and sometimes even engage in bikeshedding.
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/info.svg">
-  <img alt="Info" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/info.svg">
-</picture><br />
 
+> [!NOTE]
 These regularly scheduled A-Team team meetings are not networking events;
 however, we will occasionally host invited experts from the community to
 make presentations relevant to our objectives and likely relevant to other
