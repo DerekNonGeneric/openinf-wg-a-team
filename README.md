@@ -579,11 +579,13 @@ since being re-imagined for our New Age of AI (i.e., ever-benevolence).
 
 </figure>
 
-<div id="tbl-3-symbol-key-container" align="left"><details id="tbl-3-symbol-key"><summary><strong>
+<br /><br />
 
-🗝️&nbsp;Table&nbsp;3&nbsp;&nbsp;|&nbsp;&nbsp;_Symbol&nbsp;Key_
+<div id="tbl-3-symbol-key-container" align="left"><details><summary>
 
-</strong></summary>
+##### 🗝️ Table&nbsp;3&nbsp;&nbsp;|&nbsp;&nbsp;_Symbol&nbsp;Key_
+
+</summary>
 
 <dl>
 <dt>
@@ -618,7 +620,7 @@ since being re-imagined for our New Age of AI (i.e., ever-benevolence).
 
 </div> <!-- END #tbl-3-symbol-key-container -->
 
-</details> 
+</details>
 
 </div> <!-- END #team-itinerary-table-container -->
 
