@@ -65,7 +65,7 @@ to [contribute](#contributing) if you notice any omissions or errors.
 <br />
 
 > [!NOTE]
-As of [2023-02-14][#user-content-team-itinerary], _the Engineering Productivity
+As of [2023-02-14](#user-content-team-itinerary), _the Engineering Productivity
 group, a.k.a. the A-Team_, is no longer a discrete team. Its operations are
 split between the new Product Integrity WG meta-team and Engineering Operations.
 For now, many discussions around the test and automation work that was formerly
