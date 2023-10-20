@@ -95,11 +95,10 @@ $$
 ```
 
 <figcaption>
-  <em><strong>Fig. 1</strong> Equation expressing the
-    <a href="./#termdef-productivity" id="ref-for-termdef-productivity③"
-      >productivity</a
-    > ratio as the output divided by the input, denoted using colon
-    notation.</em>
+
+**Fig. 1**&nbsp;&nbsp;|&nbsp;&nbsp;Equation expressing the &ldquo;[productivity][]
+ratio&rdquo; as the output divided by the input denoted using a colon (<code>:</code>) notation.
+
 </figcaption>
 
 </figure> <!-- END #productivity-ratio-equation -->
@@ -130,11 +129,10 @@ $$
 ```
 
 <figcaption>
-  <em><strong>Fig. 2</strong> Equation expressing the
-    <a href="./#termdef-productivity" id="ref-for-termdef-productivity③"
-      >productivity</a
-    > ratio (in percent) as the output divided by the input (in fractional form),
-  multiplied by 100.</em>
+
+**Fig. 2**&nbsp;&nbsp;|&nbsp;&nbsp;Equation expressing the &ldquo;[productivity][] ratio&rdquo; (in percent)
+as the output divided by the input (in fractional form), multiplied by <code>100</code>.
+
 </figcaption>
 
 </div></figure> <!-- END #productivity-ratio-equation--in-percent -->
@@ -571,9 +569,10 @@ A-Team Fortnightly Team&nbsp;Meeting&nbsp;<sup>[#][4]</sup>
 </table>
 
 <figcaption id="tbl-desc">
-  <span><strong>Table 3: notable events since The New Age of AI.</strong> Missing
-  event names are owing to the too-short prior notice time.</span>
-  
+
+**Table 3**&nbsp;&nbsp;|&nbsp;&nbsp;The OpenINF A-Team events &mdash; both hosted &amp; not-yet-hosted &mdash;
+since being reimagined for our New Age of AI.
+
 </figcaption>
 
 </figure>
@@ -788,6 +787,7 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 [i-help]:
   https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
 [`openinf-auto-tooling` mailing list]: https://groups.google.com/g/openinf-auto-tooling
+[productivity]: #termdef-productivity
 [Project Central wiki page]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [projects]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [pr-help]:
