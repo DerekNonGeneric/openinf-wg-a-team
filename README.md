@@ -423,11 +423,11 @@ All are welcome; please join us!
 
 </summary>
 
-<div width="100%" align="center">
+<div id="team-itinerary-table-container" width="100%" align="center">
 
 <figure aria-details="tbl-desc">
 
-<br /><br />
+<br />
 
 <table>
  <thead align="left">
@@ -568,23 +568,24 @@ A-Team Fortnightly Team&nbsp;Meeting&nbsp;<sup>[#][4]</sup>
    </td>
 </table>
 
+<br /><br />
+
 <figcaption id="tbl-desc">
 
-**Table 3**&nbsp;&nbsp;|&nbsp;&nbsp;The OpenINF A-Team events &mdash; both hosted &amp; not-yet-hosted &mdash;
-since being reimagined for our New Age of AI.
+**Table 3**&nbsp;&nbsp;|&nbsp;&nbsp;The OpenINF A-Team events &mdash; both hosted &amp; unhosted &mdash;
+since being re-imagined for our New Age of AI (i.e., ever-benevolence).
 
 </figcaption>
 
 </figure>
 
-<br /><br />
+<div id="tbl-3-symbol-key-container" align="left"><details id="tbl-3-symbol-key"><summary><strong>
 
-<div align="left"><details>
+🗝️&nbsp;Table&nbsp;3&nbsp;&nbsp;|&nbsp;&nbsp;_Symbol&nbsp;Key_
 
-<summary><strong>🗝️ Table 3 Symbol Key</strong></summary>
+</strong></summary>
 
 <dl>
-
 <dt>
 
 [\*][1]
@@ -615,9 +616,11 @@ since being reimagined for our New Age of AI.
 
 </dl>
 
-</details>
+</div> <!-- END #tbl-3-symbol-key-container -->
 
-</div></details></div>
+</details> 
+
+</div> <!-- END #team-itinerary-table-container -->
 
 </section> <!-- END #team-itinerary -->
 
