@@ -40,7 +40,7 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
-- [On the Nature of Our Work](#on-the-nature-of-our-work)
+- [On the Nature of Our Work](#work-description)
 - [Ahoy!](#ahoy)
 - [Our Mission](#our-mission)
 - [Connecting with the Team](#connecting-with-the-a-team)
@@ -64,20 +64,25 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
-<section id="on-the-nature-of-our-work"><details><summary>
+> [!NOTE]
+As of [2023-02-14][#user-content-team-itinerary], _the Engineering Productivity
+group, a.k.a. the A-Team_, is no longer a discrete team. Its operations are
+split between the new Product Integrity WG meta-team and Engineering Operations.
+For now, many discussions around the test and automation work that was formerly
+under Engineering Productivity may [continue in our Matrix channel][].
+
+<section id="work-description"><details><summary>
 
 ### ↕️ On the Nature of Our Work
 
-</summary>
-
-<br />
+</summary><br />
 
 <section id="termdef-productivity"><strong><em>
   <!-- markdownlint-disable-next-line line-length -->
   <dfn data-dfn-type="termdef" id="def-for-termdef-productivity" role="button" aria-expanded="false" tabindex="0">productivity <a role="button" aria-expanded="false" tabindex="0" href="./#termdef-productivity" id="ref-for-termdef-productivity">⚓</a></dfn></em></strong>
 is a fundamental metric quantifying the efficiency of a process. It is defined
 as the ratio between the aggregate output generated and the total input resources
-utilized, commonly represented mathematically as:</section>
+utilized, commonly represented mathematically as:</section><!-- END #termdef-productivity -->
 
 <div align="center"><br /><br />
 
@@ -97,7 +102,7 @@ $$
     notation.</em>
 </figcaption>
 
-</figure>
+</figure> <!-- END #productivity-ratio-equation -->
 
 <br /><br /></div>
 
@@ -116,7 +121,7 @@ organizational success.
 
 <br /><br />
 
-<div align="center"><figure>
+<figure id="productivity-ratio-equation--in-percent"><div align="center">
 
 ```math
 $$
@@ -132,30 +137,15 @@ $$
   multiplied by 100.</em>
 </figcaption>
 
-</figure></div>
+</div></figure> <!-- END #productivity-ratio-equation--in-percent -->
 
-</details></section>
+</details></section> <!-- END #work-description -->
 
 <br /><br />
 
 ---
 
 <br />
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
-  <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
-</picture><br>
-
-As of 2023-02-14, _the Engineering Productivity group, a.k.a. the A-Team_, is no
-longer a discrete team. Its operations are split between the new Product
-Integrity WG meta-team and Engineering Operations. For now, many discussions
-around the test and automation work that was formerly under Engineering
-Productivity may [continue in our Matrix channel][].
-
-</section>
-
-<br /><br />
 
 <section id="ahoy">
 
