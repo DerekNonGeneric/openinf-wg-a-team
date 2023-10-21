@@ -725,6 +725,15 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 
 ---
 
+<!-- Footer -->
+
+![CC logo icon][]&nbsp;![CC BY icon][]&nbsp;![CC SA icon][]&nbsp;Portions of this document are
+reproduced from work created and&nbsp;[shared by Mozilla][moz-policies]&nbsp;and&nbsp;used
+according to terms described in&nbsp;[CC BY-SA 3.0][].
+
+![CC logo icon][]&nbsp;![CC BY icon][]&nbsp;Except as otherwise noted, this content is
+published under&nbsp;[CC BY 4.0][].
+
 <br />
 
 <div align="center">
@@ -740,6 +749,19 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 <br /><br />
 
 <!-- BEGIN LINK DEFINITIONS -->
+
+[cc by icon]: ./doc/img/cc-by_icon.svg "Attribution icon"
+[cc logo icon]: ./doc/img/cc_icon.svg "Creative Commons icon"
+[cc sa icon]: ./doc/img/cc-sa_icon.svg "ShareAlike icon"
+[cc by-sa 3.0]:
+  https://creativecommons.org/licenses/by-sa/3.0/
+  "Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)"
+[cc by 4.0]:
+  https://creativecommons.org/licenses/by/4.0/
+  "Creative Commons Attribution 4.0 International license (CC BY 4.0)"
+[moz-policies]:
+  https://www.mozilla.org/en-US/foundation/licensing/
+  "Mozilla Licensing Policies"
 
 <!-- Events -->
 
