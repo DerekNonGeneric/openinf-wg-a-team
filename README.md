@@ -31,11 +31,17 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 </div>
 
+<br /><br />
+
+---
+
 <br />
 
 <details open>
 <summary>
-<strong>📖 Table of Contents</strong>
+
+### 📖 Contents
+
 </summary>
 
 <br />
