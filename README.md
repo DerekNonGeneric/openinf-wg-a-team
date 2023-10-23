@@ -515,6 +515,19 @@ noon–1pm PDT [⏳⧉][script_working_session-time]
    </td>
    <td>A-Team Working Session
   <tr>
+   <td>2023-10-24
+   <td>Tuesday
+   <td>
+
+9am–5pm PDT [⏳⧉][hai_genai_horizons-time]
+
+   </td>
+   <td>
+
+[2023 HAI Fall Conference ⧉][hai_genai_horizons]
+
+   </td>
+  <tr>
    <td>2023-10-25
    <td>Wednesday
    <td>3pm PDT
@@ -803,6 +816,9 @@ published under&nbsp;[CC BY 4.0][].
 [euro_rust23]: https://eurorust.eu/2023
 [euro_rust23_day1]: https://eurorust.eu/2023/schedule/day/1
 [euro_rust23_day2]: https://eurorust.eu/2023/schedule/day/2
+
+[hai_genai_horizons]: https://hai.stanford.edu/events/new-horizons-generative-ai-science-creativity-and-society
+[hai_genai_horizons-time]: https://www.wolframalpha.com/input?i=9AM+PDT%2C+Oct+24%2C+2023+in+local+time "New Horizons in Generative AI: Science, Creativity, and Society in your timezone (Wolfram Alpha)"
 
 [script_open_house]: https://www.unicode.org/events/#script_open_house
 [script_open_house-time]: https://www.wolframalpha.com/input?i=11AM+PDT%2C+Oct+17%2C+2023+in+local+time "Open House on Character and Script Encoding in your timezone (Wolfram Alpha)"
