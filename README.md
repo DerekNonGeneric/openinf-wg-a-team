@@ -46,7 +46,7 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
-- [On the Nature of Our Work](#work-description)
+- [Work Description](#work-description)
 - [Ahoy!](#ahoy)
 - [Our Mission](#our-mission)
 - [Connecting with the Team](#connecting-with-the-a-team)
@@ -70,6 +70,8 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
+<section id="work-description">
+
 > [!NOTE]
 As of [2023-02-14](#user-content-team-itinerary), _the Engineering Productivity
 group, a.k.a. the A-Team_, is no longer a discrete team. Its operations are
@@ -77,11 +79,11 @@ split between the new Product Integrity WG meta-team and Engineering Operations.
 For now, many discussions around the test and automation work that was formerly
 under Engineering Productivity may [continue in our Matrix channel][].
 
-<section id="work-description"><details><summary>
+<br />
 
-### ↕️ On the Nature of Our Work
+### Work Description
 
-</summary><br />
+<br />
 
 <section id="termdef-productivity"><strong><em>
   <!-- markdownlint-disable-next-line line-length -->
@@ -90,26 +92,24 @@ is a fundamental metric quantifying the efficiency of a process. It is defined
 as the ratio between the aggregate output generated and the total input resources
 utilized, commonly represented mathematically as:</section><!-- END #termdef-productivity -->
 
-<div align="center"><br /><br />
+<br /><br />
 
-<figure id="productivity-ratio-equation">
+<div id="productivity-ratio-equation" align="center"><figure>
 
 ```math
-$$
 \text{Productivity} \equiv \text{Output} : \text{Input}
-$$
 ```
 
-<figcaption>
+<figcaption align="center">
 
 **Fig. 1**&nbsp;&nbsp;|&nbsp;&nbsp;Equation expressing the &ldquo;[productivity][]
 ratio&rdquo; as the output divided by the input denoted using a colon (<code>:</code>) notation.
 
-</figcaption>
+</figcaption></figure></div> <!-- END #productivity-ratio-equation -->
 
-</figure> <!-- END #productivity-ratio-equation -->
+<br />
 
-<br /><br /></div>
+<details><summary>🧠&nbsp;<em><strong>Learn more&hellip;</strong></em></summary><br />
 
 After baseline productivity is characterized, temporal analysis and comparison
 of this measure enables inference regarding productivity gains, losses, or
@@ -126,12 +126,10 @@ organizational success.
 
 <br /><br />
 
-<figure id="productivity-ratio-equation--in-percent"><div align="center">
+<div id="productivity-ratio-equation--in-percent" align="center"><figure>
 
 ```math
-$$
 \text{Productivity (in percent)} \equiv \frac{\text{Output}}{\text{Input}} \times 100
-$$
 ```
 
 <figcaption>
@@ -139,9 +137,7 @@ $$
 **Fig. 2**&nbsp;&nbsp;|&nbsp;&nbsp;Equation expressing the &ldquo;[productivity][] ratio&rdquo; (in percent)
 as the output divided by the input (in fractional form), multiplied by <code>100</code>.
 
-</figcaption>
-
-</div></figure> <!-- END #productivity-ratio-equation--in-percent -->
+</figcaption></figure></div> <!-- END #productivity-ratio-equation--in-percent -->
 
 </details></section> <!-- END #work-description -->
 
