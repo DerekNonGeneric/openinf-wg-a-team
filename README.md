@@ -602,11 +602,9 @@ since being re-imagined for our New Age of AI (i.e., ever-benevolence).
 
 </figure>
 
-<br />
-
 <div id="tbl-3-symbol-key-container" align="left"><details><summary>
 
-##### 🗝️ Table&nbsp;3&nbsp;&nbsp;|&nbsp;&nbsp;_Symbol&nbsp;Key_
+##### 🗝️ Table&nbsp;3&nbsp;_Symbol&nbsp;Key_
 
 </summary>
 
