@@ -427,8 +427,6 @@ All are welcome; please join us!
 
 <figure aria-details="tbl-desc">
 
-<br />
-
 <table>
  <thead align="left">
   <tr>
@@ -568,8 +566,6 @@ A-Team Fortnightly Team&nbsp;Meeting&nbsp;<sup>[#][4]</sup>
    </td>
 </table>
 
-<br /><br />
-
 <figcaption id="tbl-desc">
 
 **Table 3**&nbsp;&nbsp;|&nbsp;&nbsp;The OpenINF A-Team events &mdash; both hosted &amp; unhosted &mdash;
@@ -579,7 +575,7 @@ since being re-imagined for our New Age of AI (i.e., ever-benevolence).
 
 </figure>
 
-<br /><br />
+<br />
 
 <div id="tbl-3-symbol-key-container" align="left"><details><summary>
 
@@ -724,6 +720,8 @@ The [SPDX](https://spdx.dev) license identifier for this project is
 <br /><br />
 
 ---
+
+<br />
 
 <!-- Footer -->
 
