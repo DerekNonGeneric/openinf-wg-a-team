@@ -177,6 +177,10 @@ We are part of the [Release & Productivity meta-team][wg-release-n-productiv-met
 
 <br /><br />
 
+---
+
+<br />
+
 <section id="our-mission">
 
 ### Our Mission
@@ -194,7 +198,12 @@ the impact and effectiveness of the OpenINF community.
 
 </section>
 
+
 <br /><br />
+
+---
+
+<br />
 
 <section id="connecting-with-the-a-team">
 
@@ -326,6 +335,10 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
 
 <br /><br />
 
+---
+
+<br />
+
 <section id="what-we-work-on">
 
 ### What We Work On
@@ -371,6 +384,10 @@ below represent the general scope of our activities.
 
 <br /><br />
 
+---
+
+<br />
+
 <section id="what-we-do-not-work-on">
 
 ### What We Do Not Work On
@@ -397,6 +414,10 @@ functional tests as they understand overall test coverage and design.
 </section> <!-- END #what-we-do-not-work-on -->
 
 <br /><br />
+
+---
+
+<br />
 
 <section id="meetings">
 
@@ -632,6 +653,10 @@ since being re-imagined for our New Age of AI (i.e., ever-benevolence).
 
 <br /><br />
 
+---
+
+<br />
+
 <section id="goals-n-projects">
 
 ### Goals and Projects
@@ -647,6 +672,10 @@ See the [Project Central wiki page][] for a list of projects we own.
 </section>
 
 <br /><br />
+
+---
+
+<br />
 
 <section id="getting-involved">
 
@@ -708,6 +737,10 @@ discuss what you would like to change. If for whatever reason you spot something
 to fix but cannot patch it yourself, please [open an issue][].
 
 <br /><br />
+
+---
+
+<br />
 
 ### License
 
