@@ -337,6 +337,15 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
 
 <section id="what-we-work-on">
 
+> [!WARNING]  
+> This section is still in **draft** stage.
+>
+> All information may be incomplete, inaccurate, outdated, or even
+> **completely wrong**. Refer to [#8](https://github.com/OpenINF/wg-a-team/issues/8)
+> to track progress&hellip;
+
+<br /><br />
+
 ### What We Work On
 
 <br />
@@ -385,6 +394,15 @@ below represent the general scope of our activities.
 <br />
 
 <section id="what-we-do-not-work-on">
+
+> [!WARNING]  
+> This section is still in **draft** stage.
+>
+> All information may be incomplete, inaccurate, outdated, or even
+> **completely wrong**. Refer to [#8](https://github.com/OpenINF/wg-a-team/issues/8)
+> to track progress&hellip;
+
+<br /><br />
 
 ### What We Do Not Work On
 
@@ -665,6 +683,15 @@ since being re-imagined for our New Age of AI (i.e., ever-benevolence).
 <br />
 
 <section id="goals-n-projects">
+
+> [!WARNING]  
+> This section is still in **draft** stage.
+>
+> All information may be incomplete, inaccurate, outdated, or even
+> **completely wrong**. Refer to [#8](https://github.com/OpenINF/wg-a-team/issues/8)
+> to track progress&hellip;
+
+<br /><br />
 
 ### Goals and Projects
 
