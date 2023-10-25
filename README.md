@@ -40,7 +40,7 @@ to [contribute](#contributing) if you notice any omissions or errors.
 <details open>
 <summary>
 
-### 📖 Contents
+### Contents
 
 </summary>
 
@@ -81,7 +81,7 @@ under Engineering Productivity may [continue in our Matrix channel][].
 
 <br />
 
-### introduction
+### Introduction
 
 <br />
 
