@@ -46,7 +46,7 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
-- [Work Description](#work-description)
+- [Introduction](#intro)
 - [Ahoy!](#ahoy)
 - [Our Mission](#our-mission)
 - [Connecting with the Team](#connecting-with-the-a-team)
@@ -70,7 +70,7 @@ to [contribute](#contributing) if you notice any omissions or errors.
 
 <br />
 
-<section id="work-description">
+<section id="intro">
 
 > [!NOTE]
 As of [2023-02-14](#user-content-team-itinerary), _the Engineering Productivity
@@ -81,7 +81,7 @@ under Engineering Productivity may [continue in our Matrix channel][].
 
 <br />
 
-### Work Description
+### introduction
 
 <br />
 
