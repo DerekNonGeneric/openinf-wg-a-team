@@ -1,4 +1,12 @@
-# Development
+## Development
+
+<br />
+
+> [!WARNING]<br />
+> This documentation is still in **draft** stage.
+>
+> All information may be incomplete, inaccurate, outdated, or even
+> **completely wrong**.
 
 <details id="platform--node-js-lts">
 	<summary>
