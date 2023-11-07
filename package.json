@@ -2,12 +2,8 @@
   "name": "wg-a-team",
   "version": "1.0.0-development",
   "description": "The homepage of the Engineering Productivity WG",
-  "main": "lib/index.js",
-  "repository": "https://github.com/OpenINF/wg-a-team.git",
-  "author": "Derek Lewis <DerekNonGeneric@inf.is>",
+  "repository": "OpenINF/wg-a-team",
+  "author": "The OpenINF Authors",
   "license": "MIT OR Apache-2.0",
-  "private": true,
-  "devDependencies": {
-    "node-core-utils": "3.0.0"
-  }
+  "private": true
 }
