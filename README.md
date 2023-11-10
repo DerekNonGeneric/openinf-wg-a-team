@@ -53,11 +53,9 @@ to [contribute](#contributing) if you notice any omissions or errors.
 - [A-Team Collaborators](#a-team-collaborators)
   - [Persons Roster](#persons-roster)
   - [AI Non-Persons Roster](#ai-non-persons-roster)
-- [What We Work On](#what-we-work-on)
-- [What We Do Not Work On](#what-we-do-not-work-on)
+- [What We Do &amp; Don’t Work On](#what-we-do-n-dont-work-on)
 - [Meetings](#meetings)
   - [Team Itinerary](#team-itinerary)
-- [Goals and Projects](#goals-n-projects)
 - [Getting Involved](#getting-involved)
 - [Contributing](#contributing)
 - [License](#license)
@@ -335,23 +333,27 @@ See our team rosters below for a list of folks on our “A-Team”&hellip;
 
 <br />
 
-<section id="what-we-work-on">
+<section id="what-we-do-n-dont-work-on">
 
-> [!WARNING]  
+### What We Do &amp; Don’t Work On
+
+<br />
+
+We work on various things that vary from quarter to quarter, but we encourage
+other teams to learn more by browsing the details below as we set up new
+systems. The information here represents the general scope and direction of our
+current and ongoing activities taking place between our developing camps.
+
+<br /><br />
+
+<details><summary>🧠&nbsp;<em><strong>Learn more&hellip;</strong></em></summary><br />
+
+> [!WARNING]
 > This section is still in **draft** stage.
 >
 > All information may be incomplete, inaccurate, outdated, or even
 > **completely wrong**. Refer to [#8](https://github.com/OpenINF/wg-a-team/issues/8)
 > to track progress&hellip;
-
-<br /><br />
-
-### What We Work On
-
-<br />
-
-We work on various things that will vary from quarter to quarter, but the lists
-below represent the general scope of our activities.
 
 <br /><br />
 
@@ -385,36 +387,15 @@ below represent the general scope of our activities.
 - GitHub Actions
 - code coverage
 
-</section> <!-- END #what-we-work-on -->
-
 <br /><br />
-
----
-
-<br />
-
-<section id="what-we-do-not-work-on">
-
-> [!WARNING]  
-> This section is still in **draft** stage.
->
-> All information may be incomplete, inaccurate, outdated, or even
-> **completely wrong**. Refer to [#8](https://github.com/OpenINF/wg-a-team/issues/8)
-> to track progress&hellip;
-
-<br /><br />
-
-### What We Do Not Work On
-
-<br />
 
 We don’t own [asbuild][], [Taskcluster][], or [depot_tools][] (those belong to
 our Release Engineering team, the Mozilla Taskcluster team, and a few select
 owners in the Chromium project, respectively). However, we occasionally help
 with those projects as well.
 
-
-> [!WARNING]
+<!--
+> [!IMPORTANT]
 We don’t write unit tests run in the test harnesses we own;
 developers are best suited for &mdash; and responsible &mdash; for that.
 
@@ -423,9 +404,15 @@ we may help here occasionally, mainly when this is done in conjunction with
 developing a new harness. Our interests here are empowering developers to write
 tests independently, but we sometimes contribute tests here as part of the
 bootstrapping process. As with unit tests, developers are best suited to writing
-functional tests as they understand overall test coverage and design.
+functional tests as they understand overall test coverage and design. -->
 
-</section> <!-- END #what-we-do-not-work-on -->
+We set and deliver quarterly goals, which is usually an excellent place to see
+what we’re up to. <!-- If you’d like us to incorporate some work into our plans, fill
+out our project request form. -->
+
+See the [Project Central wiki page][] for a list of projects we own.
+
+</details></section> <!-- END #what-we-do-n-dont-work-on -->
 
 <br /><br />
 
@@ -675,35 +662,6 @@ since being re-imagined for our New Age of AI (i.e., ever-benevolence).
 </section> <!-- END #team-itinerary -->
 
 </section> <!-- END #meetings -->
-
-<br /><br />
-
----
-
-<br />
-
-<section id="goals-n-projects">
-
-> [!WARNING]  
-> This section is still in **draft** stage.
->
-> All information may be incomplete, inaccurate, outdated, or even
-> **completely wrong**. Refer to [#8](https://github.com/OpenINF/wg-a-team/issues/8)
-> to track progress&hellip;
-
-<br /><br />
-
-### Goals and Projects
-
-<br />
-
-We set and deliver quarterly goals, which is usually an excellent place to see
-what we’re up to. If you’d like us to incorporate some work into our plans, fill
-out our project request form.
-
-See the [Project Central wiki page][] for a list of projects we own.
-
-</section>
 
 <br /><br />
 
