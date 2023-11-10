@@ -389,12 +389,14 @@ current and ongoing activities taking place between our developing camps.
 
 <br /><br />
 
-We don’t own [asbuild][], [Taskcluster][], or [depot_tools][] (those belong to
-our Release Engineering team, the Mozilla Taskcluster team, and a few select
-owners in the Chromium project, respectively). However, we occasionally help
-with those projects as well.
-
 <!--
+The A-Team, as a formal WG, doesn’t own [asbuild][], [Taskcluster][], nor
+[depot_tools][]. Those belong to our Release Engineering team, the Mozilla
+Taskcluster team, and a few select owners in the Chromium project, respectively.
+However, we do occasionally, and can be expected to continue to assist those
+projects by using them, having usage experiences, and contributing valuable
+feedback to their rightful maintainers when appropriate.
+
 > [!IMPORTANT]
 We don’t write unit tests run in the test harnesses we own;
 developers are best suited for &mdash; and responsible &mdash; for that.
