@@ -580,6 +580,24 @@ Unicode Technology Workshop (UTW) &mdash; Day&nbsp;1&nbsp;<sup>[\*][1]</sup>&nbs
 Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbsp;<sup>[†][2]</sup>
 
    </td>
+<tr>
+ <td>2023-11-13
+ <td>Monday
+ <td>
+
+10am–11am PST <a href="[⏳⧉][ocaml_fn-comm_nov13-time]">⏳⧉</a>
+
+  </td>
+  <td>OCaml.org Community Meeting 🐫
+<tr>
+  <td>2023-11-27
+  <td>Monday
+  <td>
+
+10am–11am PST <a href="[⏳⧉][ocaml_fn-comm_nov27-time]">⏳⧉</a>
+
+  </td>
+  <td>OCaml.org Community Meeting 🐫
   <tr>
    <td>2023-11-21
    <td>Tuesday
@@ -811,7 +829,9 @@ published under&nbsp;[CC BY 4.0][].
 [wds_day1]: https://webdirections.org/summit/schedule.php#day1
 [wds_day2]: https://webdirections.org/summit/schedule.php#day2
 
-[ocaml_fn-comm_oct30-time]: https://www.wolframalpha.com/input?i=1PM+CEST%2C+Oct+30%2C+2023+in+local+time
+[ocaml_fn-comm_oct30-time]: https://www.wolframalpha.com/input?i=10AM+PST%2C+Oct+30%2C+2023+in+local+time
+[ocaml_fn-comm_nov13-time]: https://www.wolframalpha.com/input?i=9AM+PST%2C+Nov+13%2C+2023+in+local+time
+[ocaml_fn-comm_nov27-time]: https://www.wolframalpha.com/input?i=9AM+PST%2C+Nov+27%2C+2023+in+local+time
 
 [1]: ## "Hosted by Unicode"
 [2]: ## "Hosted at Google"
