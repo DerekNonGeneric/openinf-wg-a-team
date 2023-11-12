@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line line-length -->
+
 <a href="##"><img src="https://raw.githubusercontent.com/OpenINF/openinf.github.io/live/assets/img/svg/logogram-color.svg?sanitize=true" alt="OpenINF logo" title="OpenINF" align="right" height="96" width="96" /></a>
 
 <div align="left">
@@ -71,11 +72,11 @@ to [contribute](#contributing) if you notice any omissions or errors.
 <section id="intro">
 
 > [!NOTE]
-As of [2023-02-14](#user-content-team-itinerary), _the Engineering Productivity
-group, a.k.a. the A-Team_, is no longer a discrete team. Its operations are
-split between the new Product Integrity WG meta-team and Engineering Operations.
-For now, many discussions around the test and automation work that was formerly
-under Engineering Productivity may [continue in our Matrix channel][].
+> As of [2023-02-14](#user-content-team-itinerary), _the Engineering Productivity
+> group, a.k.a. the A-Team_, is no longer a discrete team. Its operations are
+> split between the new Product Integrity WG meta-team and Engineering Operations.
+> For now, many discussions around the test and automation work that was formerly
+> under Engineering Productivity may [continue in our Matrix channel][].
 
 <br />
 
@@ -191,7 +192,6 @@ derive and deliver information on the quality of OpenINF’s products and enhanc
 the impact and effectiveness of the OpenINF community.
 
 </section>
-
 
 <br /><br />
 
@@ -432,19 +432,18 @@ Every other Tuesday, we have a fortnightly meeting that lets out before noon U.S
 Pacific Time. We typically discuss status, and new projects, have demonstrations
 of the latest tools & features, and sometimes even engage in bikeshedding.
 
-
 > [!NOTE]
-These regularly scheduled A-Team team meetings are not networking events;
-however, we will occasionally host invited experts from the community to
-make presentations relevant to our objectives and likely relevant to other
-community members as well.
+> These regularly scheduled A-Team team meetings are not networking events;
+> however, we will occasionally host invited experts from the community to
+> make presentations relevant to our objectives and likely relevant to other
+> community members as well.
 
 All are welcome; please join us!
 
 <!-- NOT YET END #meetings -->
 
 <br /><br />
-  
+
 <section id="team-itinerary"><details><summary>
 
 #### 🗓️ Team Itinerary
@@ -585,7 +584,7 @@ Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbs
  <td>Monday
  <td>
 
-10am–11am PST <a href="[⏳⧉][ocaml_fn-comm_nov13-time]">⏳⧉</a>
+10am–11am PST [⏳⧉][ocaml_fn-comm_nov13-time]
 
   </td>
   <td>OCaml.org Community Meeting 🐫
@@ -594,7 +593,7 @@ Unicode Technology Workshop (UTW) &mdash; Day&nbsp;2&nbsp;<sup>[\*][1]</sup>&nbs
   <td>Monday
   <td>
 
-10am–11am PST <a href="[⏳⧉][ocaml_fn-comm_nov27-time]">⏳⧉</a>
+10am–11am PST [⏳⧉][ocaml_fn-comm_nov27-time]
 
   </td>
   <td>OCaml.org Community Meeting 🐫
@@ -802,37 +801,26 @@ published under&nbsp;[CC BY 4.0][].
 [cc by icon]: ./doc/img/cc-by_icon.svg "Attribution icon"
 [cc logo icon]: ./doc/img/cc_icon.svg "Creative Commons icon"
 [cc sa icon]: ./doc/img/cc-sa_icon.svg "ShareAlike icon"
-[cc by-sa 3.0]:
-  https://creativecommons.org/licenses/by-sa/3.0/
-  "Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)"
-[cc by 4.0]:
-  https://creativecommons.org/licenses/by/4.0/
-  "Creative Commons Attribution 4.0 International license (CC BY 4.0)"
-[moz-policies]:
-  https://www.mozilla.org/en-US/foundation/licensing/
-  "Mozilla Licensing Policies"
+[cc by-sa 3.0]: https://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0)"
+[cc by 4.0]: https://creativecommons.org/licenses/by/4.0/ "Creative Commons Attribution 4.0 International license (CC BY 4.0)"
+[moz-policies]: https://www.mozilla.org/en-US/foundation/licensing/ "Mozilla Licensing Policies"
 
 <!-- Events -->
 
 [euro_rust23]: https://eurorust.eu/2023
 [euro_rust23_day1]: https://eurorust.eu/2023/schedule/day/1
 [euro_rust23_day2]: https://eurorust.eu/2023/schedule/day/2
-
 [hai_genai_horizons]: https://hai.stanford.edu/events/new-horizons-generative-ai-science-creativity-and-society
 [hai_genai_horizons-time]: https://www.wolframalpha.com/input?i=9AM+PDT%2C+Oct+24%2C+2023+in+local+time "New Horizons in Generative AI: Science, Creativity, and Society in your timezone (Wolfram Alpha)"
-
 [script_open_house]: https://www.unicode.org/events/#script_open_house
 [script_open_house-time]: https://www.wolframalpha.com/input?i=11AM+PDT%2C+Oct+17%2C+2023+in+local+time "Open House on Character and Script Encoding in your timezone (Wolfram Alpha)"
 [script_working_session-time]: https://www.wolframalpha.com/input?i=12PM+PDT%2C+Oct+17%2C+2023+in+local+time "Working Session on Character and Script Encoding in your timezone (Wolfram Alpha)"
-
 [wds]: https://webdirections.org/summit
 [wds_day1]: https://webdirections.org/summit/schedule.php#day1
 [wds_day2]: https://webdirections.org/summit/schedule.php#day2
-
 [ocaml_fn-comm_oct30-time]: https://www.wolframalpha.com/input?i=10AM+PST%2C+Oct+30%2C+2023+in+local+time
 [ocaml_fn-comm_nov13-time]: https://www.wolframalpha.com/input?i=9AM+PST%2C+Nov+13%2C+2023+in+local+time
 [ocaml_fn-comm_nov27-time]: https://www.wolframalpha.com/input?i=9AM+PST%2C+Nov+27%2C+2023+in+local+time
-
 [1]: ## "Hosted by Unicode"
 [2]: ## "Hosted at Google"
 [3]: ## "Hosted Down Under"
@@ -841,10 +829,10 @@ published under&nbsp;[CC BY 4.0][].
 <!-- Handles -->
 
 [**@OpenINF**]: https://github.com/OpenINF
-[@DerekNonGeneric]: https://github.com/DerekNonGeneric 'GitHub profile of Derek Lewis'
-[@emmitrovic]: https://github.com/emmitrovic 'GitHub profile of Milena Mitrovic'
-[@jorgebucaran]: https://github.com/jorgebucaran 'GitHub profile of Jorge Bucaran'
-[@smorimoto]: https://github.com/smorimoto 'GitHub profile of Sora Morimoto'
+[@DerekNonGeneric]: https://github.com/DerekNonGeneric "GitHub profile of Derek Lewis"
+[@emmitrovic]: https://github.com/emmitrovic "GitHub profile of Milena Mitrovic"
+[@jorgebucaran]: https://github.com/jorgebucaran "GitHub profile of Jorge Bucaran"
+[@smorimoto]: https://github.com/smorimoto "GitHub profile of Sora Morimoto"
 
 <!-- 3P Tools -->
 
@@ -853,75 +841,46 @@ published under&nbsp;[CC BY 4.0][].
 [mach]: https://firefox-source-docs.mozilla.org/mach/index.html
 [openinfbot]: https://github.com/OpenINF/openinfbot
 [Taskcluster]: https://taskcluster.net
-[web-platform-tests]:
-  https://firefox-source-docs.mozilla.org/web-platform/index.html
+[web-platform-tests]: https://firefox-source-docs.mozilla.org/web-platform/index.html
 
 <!-- Misc. doc links -->
 
-[`openinf-auto-tooling` mailing list]:
-  https://groups.google.com/g/openinf-auto-tooling
-[tc39-proposal-assertion-error]:
-  https://github.com/DerekNonGeneric/proposal-assertion-error
+[`openinf-auto-tooling` mailing list]: https://groups.google.com/g/openinf-auto-tooling
+[tc39-proposal-assertion-error]: https://github.com/DerekNonGeneric/proposal-assertion-error
 [`AssertionError` Proposal]: https://github.com/DerekNonGeneric/proposal-assertion-error
-[i-gfi]:
-  https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[i-help]:
-  https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+[i-gfi]: https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[i-help]: https://github.com/search?q=org%3Aopeninf+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
 [`openinf-auto-tooling` mailing list]: https://groups.google.com/g/openinf-auto-tooling
 [productivity]: #termdef-productivity
 [Project Central wiki page]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
 [projects]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
-[pr-help]:
-  https://github.com/search?q=org%3Aopeninf+is%3Apr+is%3Aopen+label%3A%22help+wanted%22
+[pr-help]: https://github.com/search?q=org%3Aopeninf+is%3Apr+is%3Aopen+label%3A%22help+wanted%22
 [Existing Projects]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
-[Project Central wiki page]:
-  https://github.com/OpenINF/wg-a-team/wiki/Project-Central
-[Quarter of Contribution]:
-  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter
+[Project Central wiki page]: https://github.com/OpenINF/wg-a-team/wiki/Project-Central
+[Quarter of Contribution]: https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#quarter
 [wg-release-n-productiv-meta]: https://github.com/OpenINF/wg-release-n-productiv-meta
 [Release Engineering team]: https://github.com/OpenINF/wg-release-engineering
 [Release and Productivity meta-team]: https://github.com/OpenINF/wg-release-n-productiv-meta
 [Release Engineering team]: https://github.com/OpenINF/wg-release-engineering
-[skills and areas]:
-  https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
+[skills and areas]: https://github.com/OpenINF/wg-a-team/wiki/Auto-Tooling#skills-and-areas
 
 <!-- Readme template links -->
 
 [continue in our Matrix channel]: https://view.matrix.org/room/!JmqxeUehJySSTeTxsq:mozilla.org
-[conventional-commits-badge]:
-  https://img.shields.io/badge/commit%20style-Conventional-%23fa6673?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBhdGggc3R5bGU9ImZpbGw6ICNGRkYiIGQ9Ik0xNSwyQTEzLDEzLDAsMSwxLDIsMTUsMTMsMTMsMCwwLDEsMTUsMm0wLTJBMTUsMTUsMCwxLDAsMzAsMTUsMTUsMTUsMCwwLDAsMTUsMFoiLz48L3N2Zz4K
-  'Commit Style: Conventional Commits'
-[conventional-commits-url]:
-  https://www.conventionalcommits.org
-  'Commit Style: Conventional Commits'
+[conventional-commits-badge]: https://img.shields.io/badge/commit%20style-Conventional-%23fa6673?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBhdGggc3R5bGU9ImZpbGw6ICNGRkYiIGQ9Ik0xNSwyQTEzLDEzLDAsMSwxLDIsMTUsMTMsMTMsMCwwLDEsMTUsMm0wLTJBMTUsMTUsMCwxLDAsMzAsMTUsMTUsMTUsMCwwLDAsMTUsMFoiLz48L3N2Zz4K "Commit Style: Conventional Commits"
+[conventional-commits-url]: https://www.conventionalcommits.org "Commit Style: Conventional Commits"
 [give it a star ⭐️]: https://github.com/OpenINF/wg-a-team/stargazers
-[license-badge--shields]:
-  https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg?logo=github
-  'License: MIT/Apache 2.0'
-[license-badge-url]: #license 'License: MIT/Apache 2.0'
-[matrix-badge--shields]:
-  https://badgen.net/matrix/members/openinf-space/mozilla.org
-  'Chat on Matrix'
-[matrix-url]:
-  https://matrix.to/#/#openinf-space:matrix.org
-  "You're invited to talk on Matrix"
-[npm-badge--shields]:
-  https://img.shields.io/badge/packages-6-2a2a2a.svg?logo=npm
-  'View our packages on npm'
-[npm-badge-url]:
-  https://www.npmjs.com/org/openinf
-  "View all of OpenINF's packages published to the npm registry"
+[license-badge--shields]: https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg?logo=github "License: MIT/Apache 2.0"
+[license-badge-url]: #license "License: MIT/Apache 2.0"
+[matrix-badge--shields]: https://badgen.net/matrix/members/openinf-space/mozilla.org "Chat on Matrix"
+[matrix-url]: https://matrix.to/#/#openinf-space:matrix.org "You're invited to talk on Matrix"
+[npm-badge--shields]: https://img.shields.io/badge/packages-6-2a2a2a.svg?logo=npm "View our packages on npm"
+[npm-badge-url]: https://www.npmjs.com/org/openinf "View all of OpenINF's packages published to the npm registry"
 [open an issue]: https://github.com/OpenINF/wg-a-team/issues
-[prettier-badge]:
-  https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier
-  'Code Style: Prettier'
-[prettier-url]: https://prettier.io/playground 'Code Style: Prettier'
-[project-status-badge]: https://img.shields.io/badge/project%20status-under%20construction-orange 'Project Status: Under construction badge'
-[stargazers-badge-url]:
-  https://github.com/OpenINF/wg-a-team/stargazers
-  'Stargazers'
-[stargazers-badge--shields]:
-  https://img.shields.io/github/stars/OpenINF/wg-a-team.svg?style=social&maxAge=3600&label=Star
-  'Stargazers'
+[prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier "Code Style: Prettier"
+[prettier-url]: https://prettier.io/playground "Code Style: Prettier"
+[project-status-badge]: https://img.shields.io/badge/project%20status-under%20construction-orange "Project Status: Under construction badge"
+[stargazers-badge-url]: https://github.com/OpenINF/wg-a-team/stargazers "Stargazers"
+[stargazers-badge--shields]: https://img.shields.io/github/stars/OpenINF/wg-a-team.svg?style=social&maxAge=3600&label=Star "Stargazers"
 
 <!-- END LINK DEFINITIONS -->
