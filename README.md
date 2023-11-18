@@ -348,7 +348,6 @@ current and ongoing activities taking place between our developing camps.
 
 <details><summary>🧠&nbsp;<em><strong>Learn more&hellip;</strong></em></summary><br />
 
-> [!WARNING]
 > This section is still in **draft** stage.
 >
 > All information may be incomplete, inaccurate, outdated, or even
